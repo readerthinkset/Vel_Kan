@@ -104,7 +104,42 @@
       "transliteration": "bittubidabEDa, matte prayatnisu.",
       "category": "Courage",
       "generated_at": "2026-05-01T17:36:58.424118"
+    },
+    {
+      "english": "Hello there, how are you?",
+      "kannada": "ನಮಸ್ಕಾರ, ಹೇಗಿದ್ದೀರಾ?",
+      "transliteration": "namaskaara, hegiddeera?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-05-01T20:13:52.247122"
+    },
+    {
+      "english": "Thank you very much.",
+      "kannada": "ಧನ್ಯವಾದಗಳು, ತುಂಬಾ.",
+      "transliteration": "dhanyavaadagalu, tumba.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-05-01T20:13:52.247131"
+    },
+    {
+      "english": "My name is, Arun.",
+      "kannada": "ನನ್ನ ಹೆಸರು, ಅರುಣ್.",
+      "transliteration": "nanna hesaru, Arun.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-05-01T20:13:52.247133"
+    },
+    {
+      "english": "Nice to meet you.",
+      "kannada": "ನಿಮ್ಮನ್ನು ಭೇಟಿ ಮಾಡಿ, ಸಂತೋಷವಾಯಿತು.",
+      "transliteration": "nim'mannu bheTi maaDi, santoshavaayitu.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-05-01T20:13:52.247138"
+    },
+    {
+      "english": "Can you help me?",
+      "kannada": "ದಯವಿಟ್ಟು, ನನಗೆ ಸಹಾಯ ಮಾಡುವಿರಾ?",
+      "transliteration": "dayaviTTu, nanage sahaaya maaDuviraa?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-05-01T20:13:52.247140"
     }
   ],
-  "last_updated": "2026-05-01T17:36:58.424120"
+  "last_updated": "2026-05-01T20:13:52.247142"
 }
