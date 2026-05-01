@@ -34,7 +34,42 @@
       "transliteration": "chaanaakshatanindha kelasa maadu, hecchu saadhisu.",
       "category": "Strength",
       "generated_at": "2026-05-01T00:18:26.448907"
+    },
+    {
+      "english": "My mother, she is kind.",
+      "kannada": "ನನ್ನ ತಾಯಿ, ತುಂಬಾ ದಯೆ.",
+      "transliteration": "Nanna taayi, tumbaa daye.",
+      "category": "Family Terms",
+      "generated_at": "2026-05-01T15:41:09.440166"
+    },
+    {
+      "english": "Father, where are you?",
+      "kannada": "ಅಪ್ಪಾಜಿ, ಎಲ್ಲಿ ಅಿದ್ದೀರಾ?",
+      "transliteration": "Appaaji, elli addeeraa?",
+      "category": "Family Terms",
+      "generated_at": "2026-05-01T15:41:09.440176"
+    },
+    {
+      "english": "My brother, he is funny.",
+      "kannada": "ನಮ್ಮ ಅಣ್ಣ, ನಗು ತರಿಸ್ತಾನೆ.",
+      "transliteration": "Namma anna, nagu taristaane.",
+      "category": "Family Terms",
+      "generated_at": "2026-05-01T15:41:09.440177"
+    },
+    {
+      "english": "Sister, come here.",
+      "kannada": "ಅಕ್ಕಾ, ಇಲ್ಲಿ ಬಾ.",
+      "transliteration": "Akkaa, illi baa.",
+      "category": "Family Terms",
+      "generated_at": "2026-05-01T15:41:09.440179"
+    },
+    {
+      "english": "Grandmother, tell a story.",
+      "kannada": "ಅಜ್ಜಿ, ಕಥೆ ಹೇಳಿ.",
+      "transliteration": "Ajji, kathe heli.",
+      "category": "Family Terms",
+      "generated_at": "2026-05-01T15:41:09.440180"
     }
   ],
-  "last_updated": "2026-05-01T00:18:26.448908"
+  "last_updated": "2026-05-01T15:41:09.440182"
 }
