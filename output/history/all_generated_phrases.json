@@ -139,7 +139,42 @@
       "transliteration": "dayaviTTu, nanage sahaaya maaDuviraa?",
       "category": "Basic Phrases",
       "generated_at": "2026-05-01T20:13:52.247140"
+    },
+    {
+      "english": "Breathe in, breathe out.",
+      "kannada": "ಒಳಗೆ ಎಳೆ, ಹೊರಗೆ ಬಿಡು.",
+      "transliteration": "oḷage eḷe, horage biḍu.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-01T22:39:40.994646"
+    },
+    {
+      "english": "Be here, now.",
+      "kannada": "ಇಲ್ಲಿ, ಈಗ.",
+      "transliteration": "illi, īga.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-01T22:39:40.994657"
+    },
+    {
+      "english": "Feel your feet, on the ground.",
+      "kannada": "ನಿಮ್ಮ ಪಾದಗಳನ್ನು, ನೆಲದ ಮೇಲೆ.",
+      "transliteration": "nim'ma pādagaḷannu, nelada mēle.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-01T22:39:40.994658"
+    },
+    {
+      "english": "Listen closely, to your heart.",
+      "kannada": "ನಿಮ್ಮ ಹೃದಯವನ್ನು, ಆಲಿಸಿ.",
+      "transliteration": "nim'ma hr̥dayavannu, ālicci.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-01T22:39:40.994659"
+    },
+    {
+      "english": "Observe, without judgment.",
+      "kannada": "ಯಾವುದೂ, ನಿರ್ಣಯವಿಲ್ಲದೆ.",
+      "transliteration": "yāvudū, nirṇayavillade.",
+      "category": "Mindfulness",
+      "generated_at": "2026-05-01T22:39:40.994660"
     }
   ],
-  "last_updated": "2026-05-01T20:13:52.247142"
+  "last_updated": "2026-05-01T22:39:40.994661"
 }
