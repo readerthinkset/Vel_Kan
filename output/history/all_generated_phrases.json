@@ -384,7 +384,42 @@
       "transliteration": "mundē talluttalē iru.",
       "category": "Perseverance",
       "generated_at": "2026-05-03T07:32:28.311343"
+    },
+    {
+      "english": "Hello, table for two, please.",
+      "kannada": "ನಮಸ್ಕಾರ, ಇಬ್ಬರಿಗೆ ಟೇಬಲ್, ದಯವಿಟ್ಟು.",
+      "transliteration": "Namaskaara, ibbarige table, dayavittu.",
+      "category": "Restaurant Kannada",
+      "generated_at": "2026-05-03T14:41:53.271253"
+    },
+    {
+      "english": "What is today's special?",
+      "kannada": "ಇವತ್ತಿನ ಸ್ಪೆಷಲ್ ಏನು?",
+      "transliteration": "Ivattina special yenu?",
+      "category": "Restaurant Kannada",
+      "generated_at": "2026-05-03T14:41:53.271262"
+    },
+    {
+      "english": "Can I see the menu?",
+      "kannada": "ಮೆನು ನೋಡಬಹುದಾ?",
+      "transliteration": "Menu nodabahudaa?",
+      "category": "Restaurant Kannada",
+      "generated_at": "2026-05-03T14:41:53.271263"
+    },
+    {
+      "english": "We are ready to order.",
+      "kannada": "ನಾವು ಆರ್ಡರ್ ಮಾಡಲು ಸಿದ್ಧ.",
+      "transliteration": "Naavu order maadalu siddha.",
+      "category": "Restaurant Kannada",
+      "generated_at": "2026-05-03T14:41:53.271265"
+    },
+    {
+      "english": "This tastes very good.",
+      "kannada": "ಇದು ತುಂಬಾ ರುಚಿಕರವಾಗಿದೆ.",
+      "transliteration": "Idu tumbaa ruchikaravaagide.",
+      "category": "Restaurant Kannada",
+      "generated_at": "2026-05-03T14:41:53.271266"
     }
   ],
-  "last_updated": "2026-05-03T07:32:28.311345"
+  "last_updated": "2026-05-03T14:41:53.271267"
 }
