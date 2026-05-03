@@ -489,7 +489,42 @@
       "transliteration": "pratiyondoo padavoo, ondu pragati.",
       "category": "Confidence",
       "generated_at": "2026-05-03T19:58:48.708013"
+    },
+    {
+      "english": "Thank you, so much.",
+      "kannada": "ಧನ್ಯವಾದಗಳು, ತುಂಬಾ.",
+      "transliteration": "dhanyavaadagalu, toomba.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-03T22:09:42.050711"
+    },
+    {
+      "english": "I appreciate, your help.",
+      "kannada": "ನಿಮ್ಮ ಸಹಾಯ, ಮೆಚ್ಚಿದೆ.",
+      "transliteration": "nimma sahaaya, mecchide.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-03T22:09:42.050722"
+    },
+    {
+      "english": "This is, very kind.",
+      "kannada": "ಇದು, ಬಹಳ ದಯೆ.",
+      "transliteration": "idu, bahala daye.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-03T22:09:42.050724"
+    },
+    {
+      "english": "I am grateful, truly.",
+      "kannada": "ನಾನು ಕೃತಜ್ಞ, ನಿಜವಾಗಿಯೂ.",
+      "transliteration": "naanu krutagnya, nijaavaagiyoo.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-03T22:09:42.050725"
+    },
+    {
+      "english": "Your presence, means a lot.",
+      "kannada": "ನಿಮ್ಮ ಉಪಸ್ಥಿತಿ, ಬಹಳ ಮುಖ್ಯ.",
+      "transliteration": "nimma upasthiti, bahala mukhya.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-03T22:09:42.050726"
     }
   ],
-  "last_updated": "2026-05-03T19:58:48.708015"
+  "last_updated": "2026-05-03T22:09:42.050729"
 }
