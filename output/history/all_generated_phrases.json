@@ -629,7 +629,42 @@
       "transliteration": "Naavu khushiyaagirotteve, ottige.",
       "category": "Friendship",
       "generated_at": "2026-05-04T19:07:49.360240"
+    },
+    {
+      "english": "Hello there, nice to meet you.",
+      "kannada": "ನಮಸ್ಕಾರ, ನಿಮ್ಮನ್ನು ಭೇಟಿಯಾಗಿದ್ದು ಸಂತೋಷ.",
+      "transliteration": "Namaskaara, nim'mannu bhēṭiyāg<bos> santōṣa.",
+      "category": "Greetings",
+      "generated_at": "2026-05-04T20:53:40.782563"
+    },
+    {
+      "english": "Good morning, how are you?",
+      "kannada": "ಶುಭೋದಯ, ಹೇಗಿದ್ದೀರಾ?",
+      "transliteration": "Śubhōdaya, hēgiddīrā?",
+      "category": "Greetings",
+      "generated_at": "2026-05-04T20:53:40.782572"
+    },
+    {
+      "english": "Welcome, please come in.",
+      "kannada": "ಸ್ವಾಗತ, ದಯವಿಟ್ಟು ಒಳಗೆ ಬನ್ನಿ.",
+      "transliteration": "Svāgata, dayaviṭṭu oḷage banni.",
+      "category": "Greetings",
+      "generated_at": "2026-05-04T20:53:40.782574"
+    },
+    {
+      "english": "Hi, what's your name?",
+      "kannada": "ಹಾಯ್, ನಿಮ್ಮ ಹೆಸರೇನು?",
+      "transliteration": "Hāy, nim'ma hesarēnu?",
+      "category": "Greetings",
+      "generated_at": "2026-05-04T20:53:40.782575"
+    },
+    {
+      "english": "Goodbye, see you soon.",
+      "kannada": "ಹೋಗಿಬನ್ನಿ, ಮತ್ತೆ ಸಿಗೋಣ.",
+      "transliteration": "Hōgibanni, matte sigōṇa.",
+      "category": "Greetings",
+      "generated_at": "2026-05-04T20:53:40.782576"
     }
   ],
-  "last_updated": "2026-05-04T19:07:49.360242"
+  "last_updated": "2026-05-04T20:53:40.782578"
 }
