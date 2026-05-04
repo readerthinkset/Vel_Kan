@@ -559,7 +559,42 @@
       "transliteration": "āse biḍabēḍa, geḷeya.",
       "category": "Hope",
       "generated_at": "2026-05-04T09:08:19.262215"
+    },
+    {
+      "english": "Slowly, things will get better.",
+      "kannada": "ನಿಧಾನವಾಗಿ, ಪರಿಸ್ಥಿತಿ ಸುಧಾರಿಸುತ್ತದೆ.",
+      "transliteration": "nidhaanavaagi, paristhiti sudhaarisuttade.",
+      "category": "Patience",
+      "generated_at": "2026-05-04T17:19:40.794172"
+    },
+    {
+      "english": "Take your time, no rush.",
+      "kannada": "ನಿಮ್ಮ ಸಮಯ ತೆಗೆದುಕೊಳ್ಳಿ, ಆತುರವಿಲ್ಲ.",
+      "transliteration": "nim'ma samaya tegedukolli, aaturuvilla.",
+      "category": "Patience",
+      "generated_at": "2026-05-04T17:19:40.794181"
+    },
+    {
+      "english": "Keep trying, don't give up.",
+      "kannada": "ಪ್ರಯತ್ನಿಸುತ್ತಲೇ ಇರಿ, ಬಿಡಬೇಡಿ.",
+      "transliteration": "prayatnisuttale iri, bidabedi.",
+      "category": "Patience",
+      "generated_at": "2026-05-04T17:19:40.794183"
+    },
+    {
+      "english": "Wait a little, it's coming.",
+      "kannada": "ಸ್ವಲ್ಪ ಕಾಯಿರಿ, ಅದು ಬರುತ್ತಿದೆ.",
+      "transliteration": "swalpa kaayiri, adu baruttide.",
+      "category": "Patience",
+      "generated_at": "2026-05-04T17:19:40.794184"
+    },
+    {
+      "english": "Good things, take time.",
+      "kannada": "ಒಳ್ಳೆಯ ವಿಷಯಗಳಿಗೆ, ಸಮಯ ಬೇಕು.",
+      "transliteration": "oLLeya vishayagaLige, samaya beku.",
+      "category": "Patience",
+      "generated_at": "2026-05-04T17:19:40.794185"
     }
   ],
-  "last_updated": "2026-05-04T09:08:19.262217"
+  "last_updated": "2026-05-04T17:19:40.794191"
 }
