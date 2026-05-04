@@ -664,7 +664,42 @@
       "transliteration": "Hōgibanni, matte sigōṇa.",
       "category": "Greetings",
       "generated_at": "2026-05-04T20:53:40.782576"
+    },
+    {
+      "english": "Learn Kannada, speak with ease.",
+      "kannada": "ಕನ್ನಡ ಕಲಿಯಿರಿ, ಸುಲಭವಾಗಿ ಮಾತನಾಡಿ.",
+      "transliteration": "kannada kaliyiri, sulabhaavaagi maatinaadi.",
+      "category": "Purpose",
+      "generated_at": "2026-05-04T23:14:50.914628"
+    },
+    {
+      "english": "Understand culture, connect deeply.",
+      "kannada": "ಸಂಸ್ಕೃತಿ ತಿಳಿಯಿರಿ, ಆಳವಾಗಿ ಬೆರೆಯಿರಿ.",
+      "transliteration": "samskruti tiliyiri, aalavaagi bereyiri.",
+      "category": "Purpose",
+      "generated_at": "2026-05-04T23:14:50.914640"
+    },
+    {
+      "english": "Travel Karnataka, explore wonders.",
+      "kannada": "ಕರ್ನಾಟಕ ಸುತ್ತಿ, ಅದ್ಭುತಗಳನ್ನು ಅನ್ವೇಷಿಸಿ.",
+      "transliteration": "karnaataka sutti, adbhutagalanu anveshisi.",
+      "category": "Purpose",
+      "generated_at": "2026-05-04T23:14:50.914641"
+    },
+    {
+      "english": "Read Kannada books, enjoy stories.",
+      "kannada": "ಕನ್ನಡ ಪುಸ್ತಕ ಓದಿ, ಕಥೆಗಳನ್ನು ಆನಂದಿಸಿ.",
+      "transliteration": "kannada pustaka odi, kathegalannu aanandisi.",
+      "category": "Purpose",
+      "generated_at": "2026-05-04T23:14:50.914643"
+    },
+    {
+      "english": "Ask questions, learn faster.",
+      "kannada": "ಪ್ರಶ್ನೆ ಕೇಳಿ, ಬೇಗ ಕಲಿಯಿರಿ.",
+      "transliteration": "prashne keli, bega kaliyiri.",
+      "category": "Purpose",
+      "generated_at": "2026-05-04T23:14:50.914644"
     }
   ],
-  "last_updated": "2026-05-04T20:53:40.782578"
+  "last_updated": "2026-05-04T23:14:50.914645"
 }
