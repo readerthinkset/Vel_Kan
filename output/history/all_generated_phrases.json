@@ -699,7 +699,42 @@
       "transliteration": "prashne keli, bega kaliyiri.",
       "category": "Purpose",
       "generated_at": "2026-05-04T23:14:50.914644"
+    },
+    {
+      "english": "Grandfather, you are strong.",
+      "kannada": "ತಾತ, ನೀವು ಬಲಿಷ್ಠ.",
+      "transliteration": "Taata, neevu balishta.",
+      "category": "Family Terms",
+      "generated_at": "2026-05-05T07:34:33.817917"
+    },
+    {
+      "english": "My son, he is small.",
+      "kannada": "ನಮ್ಮ ಮಗ, ಚಿಕ್ಕವನು.",
+      "transliteration": "Namma maga, chikkavanu.",
+      "category": "Family Terms",
+      "generated_at": "2026-05-05T07:34:33.817925"
+    },
+    {
+      "english": "Daughter, dance nicely.",
+      "kannada": "ಮಗಳು, ಚೆನ್ನಾಗಿ ಆಡು.",
+      "transliteration": "Magalu, chennaagi aadu.",
+      "category": "Family Terms",
+      "generated_at": "2026-05-05T07:34:33.817927"
+    },
+    {
+      "english": "My uncle, he is busy.",
+      "kannada": "ನಮ್ಮ ಚಿಕ್ಕಪ್ಪ, ಕೆಲಸದಲ್ಲಿದ್ದಾನೆ.",
+      "transliteration": "Namma chikkappaa, kelasadalliddhaane.",
+      "category": "Family Terms",
+      "generated_at": "2026-05-05T07:34:33.817928"
+    },
+    {
+      "english": "Aunt, did you eat?",
+      "kannada": "ಅತ್ತಿಗೆ, ಊಟ ಆಯ್ತಾ?",
+      "transliteration": "Attige, oota aaytaa?",
+      "category": "Family Terms",
+      "generated_at": "2026-05-05T07:34:33.817929"
     }
   ],
-  "last_updated": "2026-05-04T23:14:50.914645"
+  "last_updated": "2026-05-05T07:34:33.817934"
 }
