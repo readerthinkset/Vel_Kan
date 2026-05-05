@@ -839,7 +839,42 @@
       "transliteration": "Badalāvaṇeyannu svīkarisi, adu beḷavaṇige.",
       "category": "Positive Life",
       "generated_at": "2026-05-05T20:46:55.875076"
+    },
+    {
+      "english": "Good morning, friend.",
+      "kannada": "ಶುಭೋದಯ, ಸ್ನೇಹಿತ.",
+      "transliteration": "shubhōdaya, snēhita.",
+      "category": "Common Expressions",
+      "generated_at": "2026-05-05T23:16:46.889048"
+    },
+    {
+      "english": "How are you, today?",
+      "kannada": "ಇಂದು ಹೇಗಿದ್ದೀರಾ?",
+      "transliteration": "indu hēgiddīrā?",
+      "category": "Common Expressions",
+      "generated_at": "2026-05-05T23:16:46.889056"
+    },
+    {
+      "english": "I am fine, thank you.",
+      "kannada": "ನಾನು ಚೆನ್ನಾಗಿದ್ದೀನಿ, ಧನ್ಯವಾದಗಳು.",
+      "transliteration": "nānu channāgiddīni, dhanyavādagaḷu.",
+      "category": "Common Expressions",
+      "generated_at": "2026-05-05T23:16:46.889058"
+    },
+    {
+      "english": "What is your name?",
+      "kannada": "ನಿಮ್ಮ ಹೆಸರೇನು?",
+      "transliteration": "nim'ma hēraēnu?",
+      "category": "Common Expressions",
+      "generated_at": "2026-05-05T23:16:46.889059"
+    },
+    {
+      "english": "My name is Alex.",
+      "kannada": "ನನ್ನ ಹೆಸರು ಅಲೆಕ್ಸ್.",
+      "transliteration": "nanna hesaru Alex.",
+      "category": "Common Expressions",
+      "generated_at": "2026-05-05T23:16:46.889064"
     }
   ],
-  "last_updated": "2026-05-05T20:46:55.875078"
+  "last_updated": "2026-05-05T23:16:46.889065"
 }
