@@ -979,7 +979,42 @@
       "transliteration": "nīvu cennāgi māḍuttiddīri, munduvarisi.",
       "category": "Success",
       "generated_at": "2026-05-06T21:01:14.846090"
+    },
+    {
+      "english": "I'm sorry, please forgive me.",
+      "kannada": "ಕ್ಷಮಿಸಿ, ದಯವಿಟ್ಟು ನನ್ನನ್ನು ಕ್ಷಮಿಸಿ.",
+      "transliteration": "kshamisi, dayavittu nannannu kshamisi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-06T22:38:40.611751"
+    },
+    {
+      "english": "I made a mistake, please let it go.",
+      "kannada": "ನಾನು ತಪ್ಪು ಮಾಡಿದ್ದೇನೆ, ದಯವಿಟ್ಟು ಬಿಟ್ಟುಬಿಡಿ.",
+      "transliteration": "naanu tappu maadiddene, dayavittu bittubidi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-06T22:38:40.611760"
+    },
+    {
+      "english": "Can you forgive, my friend?",
+      "kannada": "ನೀವು ಕ್ಷಮಿಸಬಲ್ಲಿರಾ, ನನ್ನ ಸ್ನೇಹಿತ?",
+      "transliteration": "neevu kshamisa ballira, nanna snehita?",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-06T22:38:40.611761"
+    },
+    {
+      "english": "Let's move on, together.",
+      "kannada": "ಮುಂದುವರೆಯೋಣ, ಒಟ್ಟಿಗೆ.",
+      "transliteration": "munduvaraiyona, ottige.",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-06T22:38:40.611763"
+    },
+    {
+      "english": "I regret my actions, please forgive.",
+      "kannada": "ನನ್ನ ಕೃತ್ಯಗಳಿಗೆ ವಿಷಾದಿಸುತ್ತೇನೆ, ದಯವಿಟ್ಟು ಕ್ಷಮಿಸಿ.",
+      "transliteration": "nanna krutya galige vishadissuttene, dayavittu kshamisi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-05-06T22:38:40.611764"
     }
   ],
-  "last_updated": "2026-05-06T21:01:14.846091"
+  "last_updated": "2026-05-06T22:38:40.611765"
 }
