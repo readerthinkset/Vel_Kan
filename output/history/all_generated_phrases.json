@@ -874,7 +874,42 @@
       "transliteration": "nanna hesaru Alex.",
       "category": "Common Expressions",
       "generated_at": "2026-05-05T23:16:46.889064"
+    },
+    {
+      "english": "Help! I need assistance, please.",
+      "kannada": "ಸಹಾಯ! ನನಗೆ ಸಹಾಯ ಬೇಕು, ದಯವಿಟ್ಟು.",
+      "transliteration": "Sahaya! Nanage sahaya beku, dayavittu.",
+      "category": "Emergency Kannada",
+      "generated_at": "2026-05-06T17:19:33.349334"
+    },
+    {
+      "english": "Where is the nearest hospital?",
+      "kannada": "ಹತ್ತಿರದ ಆಸ್ಪತ್ರೆ ಎಲ್ಲಿಲ್ಲಿದೆ?",
+      "transliteration": "Hattirada aaspatre ellidde?",
+      "category": "Emergency Kannada",
+      "generated_at": "2026-05-06T17:19:33.349343"
+    },
+    {
+      "english": "I am lost. Can you help?",
+      "kannada": "ನಾನು ದಾರಿತಪ್ಪಿದ್ದೇನೆ. ಸಹಾಯ ಮಾಡುವಿರಿ?",
+      "transliteration": "Naanu daaritappiddene. Sahaya maaduveeri?",
+      "category": "Emergency Kannada",
+      "generated_at": "2026-05-06T17:19:33.349345"
+    },
+    {
+      "english": "Call the police, quickly!",
+      "kannada": "ಪೊಲೀಸರನ್ನು ಕರೆಯಿರಿ, ಬೇಗನೆ!",
+      "transliteration": "Police-annu kareyiri, begane!",
+      "category": "Emergency Kannada",
+      "generated_at": "2026-05-06T17:19:33.349346"
+    },
+    {
+      "english": "Is there a doctor nearby?",
+      "kannada": "ಹತ್ತಿರದಲ್ಲಿ ಯಾರಾದರೂ ವೈದ್ಯರಿದ್ದಾರೆಯೇ?",
+      "transliteration": "Hattiradalli yaaradaaru vaidyariddareye?",
+      "category": "Emergency Kannada",
+      "generated_at": "2026-05-06T17:19:33.349351"
     }
   ],
-  "last_updated": "2026-05-05T23:16:46.889065"
+  "last_updated": "2026-05-06T17:19:33.349353"
 }
