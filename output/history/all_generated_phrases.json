@@ -1014,7 +1014,42 @@
       "transliteration": "nanna krutya galige vishadissuttene, dayavittu kshamisi.",
       "category": "Forgiveness",
       "generated_at": "2026-05-06T22:38:40.611764"
+    },
+    {
+      "english": "More water, please.",
+      "kannada": "ಇನ್ನಷ್ಟು ನೀರು, ದಯವಿಟ್ಟು.",
+      "transliteration": "Innastu neeru, dayavittu.",
+      "category": "Restaurant Kannada",
+      "generated_at": "2026-05-07T09:50:55.037068"
+    },
+    {
+      "english": "Is this vegetarian?",
+      "kannada": "ಇದು ಸಸ್ಯಾಹಾರವೇ?",
+      "transliteration": "Idu sasaahaaravey?",
+      "category": "Restaurant Kannada",
+      "generated_at": "2026-05-07T09:50:55.037078"
+    },
+    {
+      "english": "The bill, please.",
+      "kannada": "ಬಿಲ್, ದಯವಿಟ್ಟು.",
+      "transliteration": "Bill, dayavittu.",
+      "category": "Restaurant Kannada",
+      "generated_at": "2026-05-07T09:50:55.037079"
+    },
+    {
+      "english": "Thank you for the meal.",
+      "kannada": "ಊಟಕ್ಕೆ ಧನ್ಯವಾದಗಳು.",
+      "transliteration": "Ootakke dhanyavaadagalu.",
+      "category": "Restaurant Kannada",
+      "generated_at": "2026-05-07T09:50:55.037081"
+    },
+    {
+      "english": "Where is the restroom?",
+      "kannada": "ಶೌಚಾಲಯ ಎಲ್ಲಿದೆ?",
+      "transliteration": "Shauchaalaya ellide?",
+      "category": "Restaurant Kannada",
+      "generated_at": "2026-05-07T09:50:55.037082"
     }
   ],
-  "last_updated": "2026-05-06T22:38:40.611765"
+  "last_updated": "2026-05-07T09:50:55.037084"
 }
