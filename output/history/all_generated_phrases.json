@@ -1049,7 +1049,42 @@
       "transliteration": "Shauchaalaya ellide?",
       "category": "Restaurant Kannada",
       "generated_at": "2026-05-07T09:50:55.037082"
+    },
+    {
+      "english": "What a gift, thank you.",
+      "kannada": "ಎಂತಹ ಉಡುಗೊರೆ, ಧನ್ಯವಾದ.",
+      "transliteration": "entaha uḍugore, dhanyavaada.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-07T18:02:20.883567"
+    },
+    {
+      "english": "You made my day, thanks.",
+      "kannada": "ನೀವು ನನ್ನ ದಿನ, ಚೆನ್ನಾಗೊಳಿಸಿದಿರಿ, ಧನ್ಯವಾದ.",
+      "transliteration": "neevu nanna dina, chennaagolisidiri, dhanyavaada.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-07T18:02:20.883579"
+    },
+    {
+      "english": "I am thankful, for this.",
+      "kannada": "ಇದಕ್ಕೆ, ನಾನು ಕೃತಜ್ಞ.",
+      "transliteration": "idakke, naanu krutagnya.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-07T18:02:20.883580"
+    },
+    {
+      "english": "Such generosity, wow.",
+      "kannada": "ಅಂತಹ ಉದಾರತೆ, ವಾಹ್.",
+      "transliteration": "entaha udaarate, vaah.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-07T18:02:20.883582"
+    },
+    {
+      "english": "My sincere thanks, to you.",
+      "kannada": "ನನ್ನ ಹೃತ್ಪೂರ್ವಕ ಧನ್ಯವಾದಗಳು, ನಿಮಗೆ.",
+      "transliteration": "nanna hrutpoorvaka dhanyavaadagalu, nimage.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-07T18:02:20.883583"
     }
   ],
-  "last_updated": "2026-05-07T09:50:55.037084"
+  "last_updated": "2026-05-07T18:02:20.883585"
 }
