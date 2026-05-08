@@ -1224,7 +1224,42 @@
       "transliteration": "olagina shanti, santosha haraduttade.",
       "category": "Happiness",
       "generated_at": "2026-05-08T06:20:52.807277"
+    },
+    {
+      "english": "How much, please?",
+      "kannada": "ಎಷ್ಟು, ದಯವಿಟ್ಟು?",
+      "transliteration": "Estu, dayavittu?",
+      "category": "Shopping Kannada",
+      "generated_at": "2026-05-08T16:56:25.585557"
+    },
+    {
+      "english": "I want this, madam.",
+      "kannada": "ಇದು ಬೇಕು, ಅಮ್ಮ.",
+      "transliteration": "Idu beku, amma.",
+      "category": "Shopping Kannada",
+      "generated_at": "2026-05-08T16:56:25.585569"
+    },
+    {
+      "english": "Do you have, this?",
+      "kannada": "ಇದು ಇದೆಯಾ?",
+      "transliteration": "Idu idhiya?",
+      "category": "Shopping Kannada",
+      "generated_at": "2026-05-08T16:56:25.585571"
+    },
+    {
+      "english": "This is too expensive.",
+      "kannada": "ಇದು ತುಂಬಾ ದುಬಾರಿ.",
+      "transliteration": "Idu tumba dubari.",
+      "category": "Shopping Kannada",
+      "generated_at": "2026-05-08T16:56:25.585572"
+    },
+    {
+      "english": "Can I see, another one?",
+      "kannada": "ಇನ್ನೊಂದು ತೋರಿಸಬಹುದಾ?",
+      "transliteration": "Innondu torisabahuda?",
+      "category": "Shopping Kannada",
+      "generated_at": "2026-05-08T16:56:25.585573"
     }
   ],
-  "last_updated": "2026-05-08T06:20:52.807279"
+  "last_updated": "2026-05-08T16:56:25.585574"
 }
