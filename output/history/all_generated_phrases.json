@@ -1329,7 +1329,42 @@
       "transliteration": "indige, vidhaaya.",
       "category": "Basic Phrases",
       "generated_at": "2026-05-08T20:18:30.511722"
+    },
+    {
+      "english": "One, two, three, go!",
+      "kannada": "ಒಂದು, ಎರಡು, ಮೂರು, ಹೋಗು!",
+      "transliteration": "Ondu, eradu, moonu, hogu!",
+      "category": "Numbers Kannada",
+      "generated_at": "2026-05-08T23:15:33.216491"
+    },
+    {
+      "english": "How many, sir?",
+      "kannada": "ಎಷ್ಟು, ಅಣ್ಣ?",
+      "transliteration": "Eshtu, anna?",
+      "category": "Numbers Kannada",
+      "generated_at": "2026-05-08T23:15:33.216500"
+    },
+    {
+      "english": "I have ten fingers.",
+      "kannada": "ನನಗೆ ಹತ್ತು ಬೆರಳುಗಳಿವೆ.",
+      "transliteration": "Nanage hatthu beralugalive.",
+      "category": "Numbers Kannada",
+      "generated_at": "2026-05-08T23:15:33.216502"
+    },
+    {
+      "english": "This is one apple.",
+      "kannada": "ಇದು ಒಂದು ಸೇಬು.",
+      "transliteration": "Idu ondu sebhu.",
+      "category": "Numbers Kannada",
+      "generated_at": "2026-05-08T23:15:33.216503"
+    },
+    {
+      "english": "Two friends, playing.",
+      "kannada": "ಇಬ್ಬರು ಗೆಳೆಯರು, ಆಡುತ್ತಿದ್ದಾರೆ.",
+      "transliteration": "Ibbaru gelayaru, aaduttiddare.",
+      "category": "Numbers Kannada",
+      "generated_at": "2026-05-08T23:15:33.216504"
     }
   ],
-  "last_updated": "2026-05-08T20:18:30.511724"
+  "last_updated": "2026-05-08T23:15:33.216506"
 }
