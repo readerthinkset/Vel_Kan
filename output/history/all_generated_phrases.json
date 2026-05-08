@@ -1294,7 +1294,42 @@
       "transliteration": "sahaniyendiri, nirargaLate baruththadhe.",
       "category": "Growth",
       "generated_at": "2026-05-08T18:57:58.563106"
+    },
+    {
+      "english": "Where is the station?",
+      "kannada": "ರೈಲ್ವೆ ನಿಲ್ದಾಣ, ಎಲ್ಲಿದೆ?",
+      "transliteration": "railvey nildaana, ellide?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-05-08T20:18:30.511709"
+    },
+    {
+      "english": "I don't understand.",
+      "kannada": "ನನಗೆ, ಅರ್ಥವಾಗುತ್ತಿಲ್ಲ.",
+      "transliteration": "nanage, arthavaaguttilla.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-05-08T20:18:30.511718"
+    },
+    {
+      "english": "What is this, please?",
+      "kannada": "ಇದು, ಏನು, ದಯವಿಟ್ಟು?",
+      "transliteration": "idu, yenu, dayaviTTu?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-05-08T20:18:30.511719"
+    },
+    {
+      "english": "How much is this?",
+      "kannada": "ಇದರ ಬೆಲೆ, ಎಷ್ಟು?",
+      "transliteration": "idara bele, eshTu?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-05-08T20:18:30.511721"
+    },
+    {
+      "english": "Goodbye for now.",
+      "kannada": "ಇಂದಿಗೆ, ವಿದಾಯ.",
+      "transliteration": "indige, vidhaaya.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-05-08T20:18:30.511722"
     }
   ],
-  "last_updated": "2026-05-08T18:57:58.563108"
+  "last_updated": "2026-05-08T20:18:30.511724"
 }
