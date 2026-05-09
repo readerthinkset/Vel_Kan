@@ -1399,7 +1399,42 @@
       "transliteration": "Neevu, nannasarvasva.",
       "category": "Love",
       "generated_at": "2026-05-09T20:01:47.089718"
+    },
+    {
+      "english": "I understand, a little more.",
+      "kannada": "ನನಗೆ ಅರ್ಥವಾಗುತ್ತಿದೆ, ಸ್ವಲ್ಪ ಹೆಚ್ಚು.",
+      "transliteration": "nanage arthavaaguttide, svalpa hechu.",
+      "category": "Confidence",
+      "generated_at": "2026-05-09T22:26:42.967566"
+    },
+    {
+      "english": "My voice matters, when I speak.",
+      "kannada": "ನನ್ನ ಮಾತು ಮುಖ್ಯ, ನಾನು ಮಾತನಾಡಿದಾಗ.",
+      "transliteration": "nanna maatu mukhya, naanu maatanaadidaga.",
+      "category": "Confidence",
+      "generated_at": "2026-05-09T22:26:42.967578"
+    },
+    {
+      "english": "I am proud, of my effort.",
+      "kannada": "ನಾನು ಹೆಮ್ಮೆಪಡುತ್ತೇನೆ, ನನ್ನ ಪ್ರಯತ್ನಕ್ಕೆ.",
+      "transliteration": "naanu hemme paduttene, nanna prayatnakke.",
+      "category": "Confidence",
+      "generated_at": "2026-05-09T22:26:42.967580"
+    },
+    {
+      "english": "I can communicate, in Kannada.",
+      "kannada": "ನಾನು ಸಂವಹಿಸಬಲ್ಲೆ, ಕನ್ನಡದಲ್ಲಿ.",
+      "transliteration": "naanu samvahisaballe, kannadadalli.",
+      "category": "Confidence",
+      "generated_at": "2026-05-09T22:26:42.967581"
+    },
+    {
+      "english": "Keep trying, you will succeed.",
+      "kannada": "ಪ್ರಯತ್ನಿಸುತ್ತಾ ಇರಿ, ನೀವು ಯಶಸ್ವಿಯಾಗುವಿರಿ.",
+      "transliteration": "prayatnisuttaa iri, neevu yashasviyaaguviri.",
+      "category": "Confidence",
+      "generated_at": "2026-05-09T22:26:42.967582"
     }
   ],
-  "last_updated": "2026-05-09T20:01:47.089720"
+  "last_updated": "2026-05-09T22:26:42.967584"
 }
