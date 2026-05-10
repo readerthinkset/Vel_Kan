@@ -1504,7 +1504,42 @@
       "transliteration": "Amele bheti.",
       "category": "Time Kannada",
       "generated_at": "2026-05-10T15:34:02.773303"
+    },
+    {
+      "english": "Where are you going?",
+      "kannada": "ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತಿದ್ದೀರಿ?",
+      "transliteration": "ellige hōguttiddīri?",
+      "category": "Common Expressions",
+      "generated_at": "2026-05-10T20:04:46.232800"
+    },
+    {
+      "english": "I am going home.",
+      "kannada": "ನಾನು ಮನೆಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ.",
+      "transliteration": "nānu manege hōguttiddēne.",
+      "category": "Common Expressions",
+      "generated_at": "2026-05-10T20:04:46.232809"
+    },
+    {
+      "english": "Do you speak English?",
+      "kannada": "ನೀವು ಇಂಗ್ಲಿಷ್ ಮಾತನಾಡುತ್ತೀರಾ?",
+      "transliteration": "nīvu iṅglīṣ mātanāḍuttīrā?",
+      "category": "Common Expressions",
+      "generated_at": "2026-05-10T20:04:46.232811"
+    },
+    {
+      "english": "Please help me.",
+      "kannada": "ದಯವಿಟ್ಟು ನನಗೆ ಸಹಾಯ ಮಾಡಿ.",
+      "transliteration": "dayaviṭṭu nanage sahāya māḍi.",
+      "category": "Common Expressions",
+      "generated_at": "2026-05-10T20:04:46.232812"
+    },
+    {
+      "english": "Goodbye, see you.",
+      "kannada": "ಬೈ, ಮತ್ತೆ ಭೇಟಿಯಾಗೋಣ.",
+      "transliteration": "bai, matte bhēṭiyāgōṇa.",
+      "category": "Common Expressions",
+      "generated_at": "2026-05-10T20:04:46.232813"
     }
   ],
-  "last_updated": "2026-05-10T15:34:02.773305"
+  "last_updated": "2026-05-10T20:04:46.232815"
 }
