@@ -1819,7 +1819,42 @@
       "transliteration": "Koncha hothina nanthara.",
       "category": "Time Kannada",
       "generated_at": "2026-05-14T20:18:17.302936"
+    },
+    {
+      "english": "Twenty rupees, please.",
+      "kannada": "ಇಪ್ಪತ್ತು ರೂಪಾಯಿ, ದಯವಿಟ್ಟು.",
+      "transliteration": "Ippattu roopayi, dayavittu.",
+      "category": "Numbers Kannada",
+      "generated_at": "2026-05-14T23:14:40.705269"
+    },
+    {
+      "english": "He is number one.",
+      "kannada": "ಅವನು ನಂಬರ್ ಒಂದು.",
+      "transliteration": "Avanu number ondu.",
+      "category": "Numbers Kannada",
+      "generated_at": "2026-05-14T23:14:40.705278"
+    },
+    {
+      "english": "We are five people.",
+      "kannada": "ನಾವು ಐದು ಜನ.",
+      "transliteration": "Navu aidu jana.",
+      "category": "Numbers Kannada",
+      "generated_at": "2026-05-14T23:14:40.705279"
+    },
+    {
+      "english": "Only one chance, okay?",
+      "kannada": "ಒಂದೇ ಒಂದು ಅವಕಾಶ, ಸರಿ?",
+      "transliteration": "Onde ondu avakaasha, sari?",
+      "category": "Numbers Kannada",
+      "generated_at": "2026-05-14T23:14:40.705281"
+    },
+    {
+      "english": "Count from one to ten.",
+      "kannada": "ಒಂದರಿಂದ ಹತ್ತು ಎಣಿಸು.",
+      "transliteration": "Ondarinda hatthu enisu.",
+      "category": "Numbers Kannada",
+      "generated_at": "2026-05-14T23:14:40.705282"
     }
   ],
-  "last_updated": "2026-05-14T20:18:17.302938"
+  "last_updated": "2026-05-14T23:14:40.705283"
 }
