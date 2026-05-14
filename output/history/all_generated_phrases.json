@@ -1784,7 +1784,42 @@
       "transliteration": "Jāgrate, īga bāy.",
       "category": "Greetings",
       "generated_at": "2026-05-14T19:58:47.578488"
+    },
+    {
+      "english": "Soon, we will meet.",
+      "kannada": "ಬೇಗ, ನಾವು ಭೇಟಿ ಆಗ್ತೀವಿ.",
+      "transliteration": "Bega, naavu bheti aagthivi.",
+      "category": "Time Kannada",
+      "generated_at": "2026-05-14T20:18:17.302919"
+    },
+    {
+      "english": "Today, it's sunny.",
+      "kannada": "ಇವತ್ತು, ಬಿಸಿಲು.",
+      "transliteration": "Ivathu, bisilu.",
+      "category": "Time Kannada",
+      "generated_at": "2026-05-14T20:18:17.302929"
+    },
+    {
+      "english": "Tomorrow, we will travel.",
+      "kannada": "ನಾಳೆ, ನಾವು ಪ್ರಯಾಣ.",
+      "transliteration": "Naale, naavu prayana.",
+      "category": "Time Kannada",
+      "generated_at": "2026-05-14T20:18:17.302931"
+    },
+    {
+      "english": "Yesterday, it rained.",
+      "kannada": "ನಿನ್ನೆ, ಮಳೆ ಬಂತು.",
+      "transliteration": "Ninne, male banthu.",
+      "category": "Time Kannada",
+      "generated_at": "2026-05-14T20:18:17.302932"
+    },
+    {
+      "english": "After a while.",
+      "kannada": "ಕೊಂಚ ಹೊತ್ತಿನ ನಂತರ.",
+      "transliteration": "Koncha hothina nanthara.",
+      "category": "Time Kannada",
+      "generated_at": "2026-05-14T20:18:17.302936"
     }
   ],
-  "last_updated": "2026-05-14T19:58:47.578490"
+  "last_updated": "2026-05-14T20:18:17.302938"
 }
