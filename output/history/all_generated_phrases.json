@@ -1749,7 +1749,42 @@
       "transliteration": "naavu hosadagi praarambhisabahude?",
       "category": "Forgiveness",
       "generated_at": "2026-05-13T10:03:03.398807"
+    },
+    {
+      "english": "How's your day going?",
+      "kannada": "ದಿನ ಹೇಗಿದೆ, ನಿಮ್ಮದು?",
+      "transliteration": "Dina hēgide, nim'madu?",
+      "category": "Greetings",
+      "generated_at": "2026-05-14T19:58:47.578474"
+    },
+    {
+      "english": "It's a pleasure, really.",
+      "kannada": "ಖುಷಿಯಾಯಿತು, ನಿಜವಾಗಿಯೂ.",
+      "transliteration": "Khuṣiyāyitu, nijavāgiyū.",
+      "category": "Greetings",
+      "generated_at": "2026-05-14T19:58:47.578484"
+    },
+    {
+      "english": "Hope you are well.",
+      "kannada": "ನೀವು ಚೆನ್ನಾಗಿದ್ದೀರಿ ಎಂದು ಭಾವಿಸುತ್ತೇನೆ.",
+      "transliteration": "Nīvu cennāgiddīri endu bhāvisuttēne.",
+      "category": "Greetings",
+      "generated_at": "2026-05-14T19:58:47.578486"
+    },
+    {
+      "english": "Good evening, enjoy your night.",
+      "kannada": "ಶುಭ ಸಂಜೆ, ರಾತ್ರಿ ಆನಂದಿಸಿ.",
+      "transliteration": "Śubha san̄je, rātri ānandisi.",
+      "category": "Greetings",
+      "generated_at": "2026-05-14T19:58:47.578487"
+    },
+    {
+      "english": "Take care, bye for now.",
+      "kannada": "ಜಾಗ್ರತೆ, ಈಗ ಬಾಯ್.",
+      "transliteration": "Jāgrate, īga bāy.",
+      "category": "Greetings",
+      "generated_at": "2026-05-14T19:58:47.578488"
     }
   ],
-  "last_updated": "2026-05-13T10:03:03.398808"
+  "last_updated": "2026-05-14T19:58:47.578490"
 }
