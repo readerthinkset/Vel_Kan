@@ -1959,7 +1959,42 @@
       "transliteration": "dhairyavagirU, sahasa mADu.",
       "category": "Courage",
       "generated_at": "2026-05-17T20:10:32.102936"
+    },
+    {
+      "english": "I need medical attention, urgently.",
+      "kannada": "ನನಗೆ ತುರ್ತಾಗಿ ವೈದ್ಯಕೀಯ ಸಹಾಯ ಬೇಕು.",
+      "transliteration": "Nanage turg-aagi vaidya-keeya sahaya beku.",
+      "category": "Emergency Kannada",
+      "generated_at": "2026-05-18T19:18:52.069459"
+    },
+    {
+      "english": "My phone is not working.",
+      "kannada": "ನನ್ನ ಫೋನ್ ಕೆಲಸ ಮಾಡುತ್ತಿಲ್ಲ.",
+      "transliteration": "Nanna phone kelasa maaduttilla.",
+      "category": "Emergency Kannada",
+      "generated_at": "2026-05-18T19:18:52.069469"
+    },
+    {
+      "english": "Can you show me the way?",
+      "kannada": "ದಾರಿಯನ್ನು ತೋರಿಸುವಿರಾ?",
+      "transliteration": "Daariyannu toorisuviraa?",
+      "category": "Emergency Kannada",
+      "generated_at": "2026-05-18T19:18:52.069471"
+    },
+    {
+      "english": "I need to find a safe place.",
+      "kannada": "ನಾನು ಸುರಕ್ಷಿತ ಸ್ಥಳವನ್ನು ಹುಡುಕಬೇಕು.",
+      "transliteration": "Naanu surakshita sthalavannu hudukabeku.",
+      "category": "Emergency Kannada",
+      "generated_at": "2026-05-18T19:18:52.069472"
+    },
+    {
+      "english": "Is anyone hurt?",
+      "kannada": "ಯಾರಿಗಾದರೂ ಗಾಯವಾಗಿದೆಯೇ?",
+      "transliteration": "Yaarigaadaroo gaaya-vaagideye?",
+      "category": "Emergency Kannada",
+      "generated_at": "2026-05-18T19:18:52.069474"
     }
   ],
-  "last_updated": "2026-05-17T20:10:32.102938"
+  "last_updated": "2026-05-18T19:18:52.069475"
 }
