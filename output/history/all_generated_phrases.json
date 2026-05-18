@@ -1994,7 +1994,42 @@
       "transliteration": "Yaarigaadaroo gaaya-vaagideye?",
       "category": "Emergency Kannada",
       "generated_at": "2026-05-18T19:18:52.069474"
+    },
+    {
+      "english": "Where is the bus stop, please?",
+      "kannada": "ದಯವಿಟ್ಟು, ಬಸ್ ನಿಲ್ಾಣ ಎಲ್ಲಿದೆ?",
+      "transliteration": "dayavittu, bus nilana ellide?",
+      "category": "Travel Kannada",
+      "generated_at": "2026-05-18T23:48:13.401340"
+    },
+    {
+      "english": "I need a ticket, to Mysore.",
+      "kannada": "ನನಗೆ ಮೈಸೂರಿಗೆ, ಒಂದು ಟಿಕೆಟ್ ಬೇಕು.",
+      "transliteration": "nanage mysorege, ondu ticket beku.",
+      "category": "Travel Kannada",
+      "generated_at": "2026-05-18T23:48:13.401350"
+    },
+    {
+      "english": "How much is this, for one person?",
+      "kannada": "ಇದರ ಬೆಲೆ, ಒಬ್ಬರಿಗೆ ಎಷ್ಟು?",
+      "transliteration": "idara bele, obborige eshtu?",
+      "category": "Travel Kannada",
+      "generated_at": "2026-05-18T23:48:13.401351"
+    },
+    {
+      "english": "Can you help me, please?",
+      "kannada": "ದಯವಿಟ್ಟು, ನನಗೆ ಸಹಾಯ ಮಾಡುವಿರಾ?",
+      "transliteration": "dayavittu, nanage sahaaya maaduveera?",
+      "category": "Travel Kannada",
+      "generated_at": "2026-05-18T23:48:13.401353"
+    },
+    {
+      "english": "I want to go, to the hotel.",
+      "kannada": "ನಾನು ಹೋಟೆಲ್‌ಗೆ, ಹೋಗಬೇಕು.",
+      "transliteration": "naanu hotelge, hogabeku.",
+      "category": "Travel Kannada",
+      "generated_at": "2026-05-18T23:48:13.401354"
     }
   ],
-  "last_updated": "2026-05-18T19:18:52.069475"
+  "last_updated": "2026-05-18T23:48:13.401355"
 }
