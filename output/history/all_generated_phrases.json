@@ -2064,7 +2064,42 @@
       "transliteration": "nimma payana, nimma pragati.",
       "category": "Purpose",
       "generated_at": "2026-05-19T11:44:14.035692"
+    },
+    {
+      "english": "Be calm, everything is fine.",
+      "kannada": "ಶಾಂತವಾಗಿರಿ, ಎಲ್ಲವೂ ಸರಿಯಾಗಿದೆ.",
+      "transliteration": "shaantavaagari, ellavoo sariyagide.",
+      "category": "Patience",
+      "generated_at": "2026-05-20T22:18:52.148794"
+    },
+    {
+      "english": "One step at a time.",
+      "kannada": "ಒಂದೊಂದೇ ಹೆಜ್ಜೆ, ಇಡಿ.",
+      "transliteration": "ondonde hejje, iḍi.",
+      "category": "Patience",
+      "generated_at": "2026-05-20T22:18:52.148804"
+    },
+    {
+      "english": "Patience, brings rewards.",
+      "kannada": "ಸಹನೆ, ಫಲ ತರುತ್ತದೆ.",
+      "transliteration": "sahane, phala taruttade.",
+      "category": "Patience",
+      "generated_at": "2026-05-20T22:18:52.148806"
+    },
+    {
+      "english": "Just breathe, and wait.",
+      "kannada": "ಉಸಿರಾಡಿ, ಮತ್ತು ಕಾಯಿರಿ.",
+      "transliteration": "usiraaḍi, mattu kaayiri.",
+      "category": "Patience",
+      "generated_at": "2026-05-20T22:18:52.148807"
+    },
+    {
+      "english": "It will happen, when it's time.",
+      "kannada": "ಸಮಯ ಬಂದಾಗ, ಅದು ಆಗುತ್ತದೆ.",
+      "transliteration": "samaya bandaga, adu aaguttade.",
+      "category": "Patience",
+      "generated_at": "2026-05-20T22:18:52.148808"
     }
   ],
-  "last_updated": "2026-05-19T11:44:14.035694"
+  "last_updated": "2026-05-20T22:18:52.148810"
 }
