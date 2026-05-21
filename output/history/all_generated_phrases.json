@@ -2134,7 +2134,42 @@
       "transliteration": "Ide nanage bekada banna.",
       "category": "Shopping Kannada",
       "generated_at": "2026-05-21T11:58:30.264624"
+    },
+    {
+      "english": "How is your day going?",
+      "kannada": "ನಿಮ್ಮ ದಿನ ಹೇಗಿದೆ?",
+      "transliteration": "nim'ma dina hegid'de?",
+      "category": "Greetings",
+      "generated_at": "2026-05-21T18:30:07.315293"
+    },
+    {
+      "english": "Good evening, everyone.",
+      "kannada": "ಶುಭ ಸಂಜೆ, ಎಲ್ಲರಿಗೂ.",
+      "transliteration": "shubha sanje, ellarigu.",
+      "category": "Greetings",
+      "generated_at": "2026-05-21T18:30:07.315303"
+    },
+    {
+      "english": "Hello, hope you're well.",
+      "kannada": "ಹಲೋ, ನೀವು ಚೆನ್ನಾಗಿದ್ದೀರಿ ಎಂದು ಭಾವಿಸುತ್ತೇನೆ.",
+      "transliteration": "halo, neevu chennagi'd'deeri endu bhaavisuttene.",
+      "category": "Greetings",
+      "generated_at": "2026-05-21T18:30:07.315304"
+    },
+    {
+      "english": "Greetings, from afar.",
+      "kannada": "ಶುಭಾಶಯಗಳು, ದೂರದಿಂದ.",
+      "transliteration": "shubhaashayagaLu, dooradinda.",
+      "category": "Greetings",
+      "generated_at": "2026-05-21T18:30:07.315305"
+    },
+    {
+      "english": "Hey, what's new?",
+      "kannada": "ಹೇ, ಏನಾಯಿತು?",
+      "transliteration": "he, Enaayitu?",
+      "category": "Greetings",
+      "generated_at": "2026-05-21T18:30:07.315306"
     }
   ],
-  "last_updated": "2026-05-21T11:58:30.264626"
+  "last_updated": "2026-05-21T18:30:07.315308"
 }
