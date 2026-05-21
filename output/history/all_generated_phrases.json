@@ -2099,7 +2099,42 @@
       "transliteration": "samaya bandaga, adu aaguttade.",
       "category": "Patience",
       "generated_at": "2026-05-20T22:18:52.148808"
+    },
+    {
+      "english": "I'm just looking, thanks.",
+      "kannada": "ನೋಡ್ತಾ ಇದೀನಿ, ಧನ್ಯವಾದಗಳು.",
+      "transliteration": "Nodta idheeni, dhanyavadagalu.",
+      "category": "Shopping Kannada",
+      "generated_at": "2026-05-21T11:58:30.264607"
+    },
+    {
+      "english": "Where is the changing room?",
+      "kannada": "ಬಟ್ಟೆ ಬದಲಾಯಿಸುವ ಜಾಗ ಎಲ್ಲಿ?",
+      "transliteration": "Batte badalayisuva jaaga elli?",
+      "category": "Shopping Kannada",
+      "generated_at": "2026-05-21T11:58:30.264620"
+    },
+    {
+      "english": "I need a bag, please.",
+      "kannada": "ಒಂದು ಚೀಲ ಬೇಕು, ದಯವಿಟ್ಟು.",
+      "transliteration": "Ondu cheela beku, dayavittu.",
+      "category": "Shopping Kannada",
+      "generated_at": "2026-05-21T11:58:30.264621"
+    },
+    {
+      "english": "Can I pay, by card?",
+      "kannada": "ಕಾರ್ಡ್‌ನಲ್ಲಿ ಪಾವತಿಸಬಹುದಾ?",
+      "transliteration": "Card-nalli paavatisabahuda?",
+      "category": "Shopping Kannada",
+      "generated_at": "2026-05-21T11:58:30.264623"
+    },
+    {
+      "english": "This is the color, I want.",
+      "kannada": "ಇದೇ ನನಗೆ ಬೇಕಾದ ಬಣ್ಣ.",
+      "transliteration": "Ide nanage bekada banna.",
+      "category": "Shopping Kannada",
+      "generated_at": "2026-05-21T11:58:30.264624"
     }
   ],
-  "last_updated": "2026-05-20T22:18:52.148810"
+  "last_updated": "2026-05-21T11:58:30.264626"
 }
