@@ -2239,7 +2239,42 @@
       "transliteration": "Naanu, daari tappiddene.",
       "category": "Emergency Kannada",
       "generated_at": "2026-05-21T22:06:00.628518"
+    },
+    {
+      "english": "My mother, my life.",
+      "kannada": "ಅಮ್ಮ, ನನ್ನ ಜೀವ.",
+      "transliteration": "Amma, nanna jeeva.",
+      "category": "Family Terms",
+      "generated_at": "2026-05-21T23:39:05.678256"
+    },
+    {
+      "english": "Father, my hero.",
+      "kannada": "ಅಪ್ಪ, ನನ್ನ ಹೀರೋ.",
+      "transliteration": "Appa, nanna hero.",
+      "category": "Family Terms",
+      "generated_at": "2026-05-21T23:39:05.678265"
+    },
+    {
+      "english": "Elder brother, my friend.",
+      "kannada": "ಅಣ್ಣ, ನನ್ನ ಗೆಳೆಯ.",
+      "transliteration": "Anna, nanna geleya.",
+      "category": "Family Terms",
+      "generated_at": "2026-05-21T23:39:05.678267"
+    },
+    {
+      "english": "Younger sister, my joy.",
+      "kannada": "ತಂಗಿ, ನನ್ನ ಖುಷಿ.",
+      "transliteration": "Tangi, nanna khushi.",
+      "category": "Family Terms",
+      "generated_at": "2026-05-21T23:39:05.678268"
+    },
+    {
+      "english": "Grandparents, our blessings.",
+      "kannada": "ಅಜ್ಜ, ಅಜ್ಜಿ, ನಮ್ಮ ಆಶೀರ್ವಾದ.",
+      "transliteration": "Ajja, Ajji, namma aasheervaada.",
+      "category": "Family Terms",
+      "generated_at": "2026-05-21T23:39:05.678270"
     }
   ],
-  "last_updated": "2026-05-21T22:06:00.628520"
+  "last_updated": "2026-05-21T23:39:05.678271"
 }
