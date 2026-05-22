@@ -2274,7 +2274,42 @@
       "transliteration": "Ajja, Ajji, namma aasheervaada.",
       "category": "Family Terms",
       "generated_at": "2026-05-21T23:39:05.678270"
+    },
+    {
+      "english": "I can do this, I will try.",
+      "kannada": "ನಾನು ಇದನ್ನು ಮಾಡಬಲ್ಲೆ, ನಾನು ಪ್ರಯತ್ನಿಸುತ್ತೇನೆ.",
+      "transliteration": "naanu idannu maadaballe, naanu prayatnisuttene.",
+      "category": "Confidence",
+      "generated_at": "2026-05-22T10:38:34.214428"
+    },
+    {
+      "english": "Learning is fun, don't give up.",
+      "kannada": "ಕಲಿಯುವುದು ಖುಷಿ, ಬಿಟ್ಟುಕೊಡಬೇಡಿ.",
+      "transliteration": "kaliyuvudu khushi, bittukodabedi.",
+      "category": "Confidence",
+      "generated_at": "2026-05-22T10:38:34.214440"
+    },
+    {
+      "english": "Mistakes are okay, learn from them.",
+      "kannada": "ತಪ್ಪುಗಳು ಸರಿ, ಅವುಗಳಿಂದ ಕಲಿಯಿರಿ.",
+      "transliteration": "tappugalu sari, avugalinda kaliyiri.",
+      "category": "Confidence",
+      "generated_at": "2026-05-22T10:38:34.214441"
+    },
+    {
+      "english": "Speak slowly, I will listen.",
+      "kannada": "ನಿಧಾನವಾಗಿ ಮಾತನಾಡಿ, ನಾನು ಕೇಳುತ್ತೇನೆ.",
+      "transliteration": "nidhaanavaagi maathanaadi, naanu keluttene.",
+      "category": "Confidence",
+      "generated_at": "2026-05-22T10:38:34.214442"
+    },
+    {
+      "english": "Practice makes perfect, keep going.",
+      "kannada": "ಅಭ್ಯಾಸವು ಪರಿಪೂರ್ಣಗೊಳಿಸುತ್ತದೆ, ಮುಂದುವರೆಯಿರಿ.",
+      "transliteration": "abhyaasavu paripurnagolisuttade, munduvareriri.",
+      "category": "Confidence",
+      "generated_at": "2026-05-22T10:38:34.214444"
     }
   ],
-  "last_updated": "2026-05-21T23:39:05.678271"
+  "last_updated": "2026-05-22T10:38:34.214445"
 }
