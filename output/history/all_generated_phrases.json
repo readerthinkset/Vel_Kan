@@ -2554,7 +2554,42 @@
       "transliteration": "Tūka vanna badalāyisi, nim'ma nelaiyannu huḍuki.",
       "category": "Balance",
       "generated_at": "2026-05-23T17:42:35.735760"
+    },
+    {
+      "english": "Hello, where is the train station?",
+      "kannada": "ನಮಸ್ಕಾರ, ರೈಲು ನಿಲ್ದಾಣ ಎಲ್ಲಿದೆ?",
+      "transliteration": "namaskaara, railu nildaana ellide?",
+      "category": "Travel Kannada",
+      "generated_at": "2026-05-23T20:12:59.486976"
+    },
+    {
+      "english": "How much is this ticket?",
+      "kannada": "ಈ ಟಿಕೆಟ್ ಬೆಲೆ ಎಷ್ಟು?",
+      "transliteration": "ee ticket bele eshtu?",
+      "category": "Travel Kannada",
+      "generated_at": "2026-05-23T20:12:59.486985"
+    },
+    {
+      "english": "I want to go to the airport.",
+      "kannada": "ನಾನು ವಿಮಾನ ನಿಲ್ದಾಣಕ್ಕೆ ಹೋಗಬೇಕು.",
+      "transliteration": "naanu vimaana nildaanakke hogabeku.",
+      "category": "Travel Kannada",
+      "generated_at": "2026-05-23T20:12:59.486987"
+    },
+    {
+      "english": "Where is the nearest hotel?",
+      "kannada": "ಹತ್ತಿರದ ಹೋಟೆಲ್ ಎಲ್ಲಿದೆ?",
+      "transliteration": "hattirada hotel ellide?",
+      "category": "Travel Kannada",
+      "generated_at": "2026-05-23T20:12:59.486988"
+    },
+    {
+      "english": "This is a beautiful place.",
+      "kannada": "ಇದು ಸುಂದರವಾದ ಸ್ಥಳ.",
+      "transliteration": "idu sundaravaada sthala.",
+      "category": "Travel Kannada",
+      "generated_at": "2026-05-23T20:12:59.486989"
     }
   ],
-  "last_updated": "2026-05-23T17:42:35.735762"
+  "last_updated": "2026-05-23T20:12:59.486991"
 }
