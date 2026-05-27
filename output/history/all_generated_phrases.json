@@ -2694,7 +2694,42 @@
       "transliteration": "nīvu, ondu vara.",
       "category": "Gratitude",
       "generated_at": "2026-05-27T17:18:34.416631"
+    },
+    {
+      "english": "Hello, where is the shop?",
+      "kannada": "ನಮಸ್ಕಾರ, ಅಂಗಡಿ ಎಲ್ಲಿದೆ?",
+      "transliteration": "namaskaara, angadi ellide?",
+      "category": "Shopping Kannada",
+      "generated_at": "2026-05-27T19:12:18.101081"
+    },
+    {
+      "english": "I want to buy this.",
+      "kannada": "ನನಗೆ ಇದು ಬೇಕು.",
+      "transliteration": "nanage idu beku.",
+      "category": "Shopping Kannada",
+      "generated_at": "2026-05-27T19:12:18.101093"
+    },
+    {
+      "english": "Can you show me, please?",
+      "kannada": "ದಯವಿಟ್ಟು ತೋರಿಸಿ.",
+      "transliteration": "dayavittu torisi.",
+      "category": "Shopping Kannada",
+      "generated_at": "2026-05-27T19:12:18.101095"
+    },
+    {
+      "english": "I'm just looking.",
+      "kannada": "ನಾನು ಸುಮ್ಮನೆ ನೋಡುತ್ತಿದ್ದೇನೆ.",
+      "transliteration": "naanu summane noduttiddene.",
+      "category": "Shopping Kannada",
+      "generated_at": "2026-05-27T19:12:18.101096"
+    },
+    {
+      "english": "Do you have other colors?",
+      "kannada": "ಇತರ ಬಣ್ಣಗಳಿವೆಯೇ?",
+      "transliteration": "itara bannagaliveye?",
+      "category": "Shopping Kannada",
+      "generated_at": "2026-05-27T19:12:18.101097"
     }
   ],
-  "last_updated": "2026-05-27T17:18:34.416632"
+  "last_updated": "2026-05-27T19:12:18.101099"
 }
