@@ -2589,7 +2589,42 @@
       "transliteration": "idu sundaravaada sthala.",
       "category": "Travel Kannada",
       "generated_at": "2026-05-23T20:12:59.486989"
+    },
+    {
+      "english": "Learn Kannada, speak clearly.",
+      "kannada": "ಕನ್ನಡ ಕಲಿಯಿರಿ, ಸ್ಪಷ್ಟವಾಗಿ ಮಾತನಾಡಿ.",
+      "transliteration": "kannada kaliyiri, spashtavagi maatanaadi.",
+      "category": "Purpose",
+      "generated_at": "2026-05-27T04:22:13.003065"
+    },
+    {
+      "english": "Ask questions, understand well.",
+      "kannada": "ಪ್ರಶ್ನೆ ಕೇಳಿ, ಚೆನ್ನಾಗಿ ಅರ್ಥ ಮಾಡಿಕೊಳ್ಳಿ.",
+      "transliteration": "prashne keli, chennagi artha maadikolli.",
+      "category": "Purpose",
+      "generated_at": "2026-05-27T04:22:13.003073"
+    },
+    {
+      "english": "Practice daily, improve fast.",
+      "kannada": "ದಿನವೂ ಅಭ್ಯಾಸ ಮಾಡಿ, ಬೇಗ ಸುಧಾರಿಸಿ.",
+      "transliteration": "dinavu abhyaasa maadi, bega sudhaarisi.",
+      "category": "Purpose",
+      "generated_at": "2026-05-27T04:22:13.003075"
+    },
+    {
+      "english": "Listen carefully, respond wisely.",
+      "kannada": "ಎಚ್ಚರಿಕೆಯಿಂದ ಕೇಳಿ, ಬುದ್ಧಿವಂತಿಕೆಯಿಂದ ಉತ್ತರಿಸಿ.",
+      "transliteration": "echcharikeyimda keli, buddhivantikeyimda uttarisi.",
+      "category": "Purpose",
+      "generated_at": "2026-05-27T04:22:13.003076"
+    },
+    {
+      "english": "Read books, expand knowledge.",
+      "kannada": "ಪುಸ್ತಕ ಓದಿ, ಜ್ಞಾನವನ್ನು ವಿಸ್ತರಿಸಿ.",
+      "transliteration": "pustaka odi, jnaanavannu vistarisiri.",
+      "category": "Purpose",
+      "generated_at": "2026-05-27T04:22:13.003077"
     }
   ],
-  "last_updated": "2026-05-23T20:12:59.486991"
+  "last_updated": "2026-05-27T04:22:13.003079"
 }
