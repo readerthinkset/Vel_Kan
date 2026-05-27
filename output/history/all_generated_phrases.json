@@ -2659,7 +2659,42 @@
       "transliteration": "ondū biḍabēḍi, matte prayatnisi.",
       "category": "Courage",
       "generated_at": "2026-05-27T15:54:40.021984"
+    },
+    {
+      "english": "Thank you, very much.",
+      "kannada": "ಧನ್ಯವಾದಗಳು, ತುಂಬಾ.",
+      "transliteration": "dhanyavaadagalu, tumba.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-27T17:18:34.416618"
+    },
+    {
+      "english": "This is, wonderful.",
+      "kannada": "ಇದು, ಅದ್ಭುತ.",
+      "transliteration": "idu, adbhuta.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-27T17:18:34.416627"
+    },
+    {
+      "english": "So kind, of you.",
+      "kannada": "ನಿಮ್ಮಿಂದ, ತುಂಬಾ ದಯೆ.",
+      "transliteration": "nim'minda, tumba daye.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-27T17:18:34.416628"
+    },
+    {
+      "english": "Feeling grateful, today.",
+      "kannada": "ಕೃತಜ್ಞತೆಯಿಂದ, ಇದ್ದೇನೆ, ಇಂದು.",
+      "transliteration": "kr̥tajñateyinda, id'dene, indū.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-27T17:18:34.416630"
+    },
+    {
+      "english": "You are, a blessing.",
+      "kannada": "ನೀವು, ಒಂದು ವರ.",
+      "transliteration": "nīvu, ondu vara.",
+      "category": "Gratitude",
+      "generated_at": "2026-05-27T17:18:34.416631"
     }
   ],
-  "last_updated": "2026-05-27T15:54:40.021986"
+  "last_updated": "2026-05-27T17:18:34.416632"
 }
