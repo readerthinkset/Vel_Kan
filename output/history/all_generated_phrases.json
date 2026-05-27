@@ -2624,7 +2624,42 @@
       "transliteration": "pustaka odi, jnaanavannu vistarisiri.",
       "category": "Purpose",
       "generated_at": "2026-05-27T04:22:13.003077"
+    },
+    {
+      "english": "Be brave, always.",
+      "kannada": "ಧೈರ್ಯವಾಗಿರು, ಯಾವಾಗಲೂ.",
+      "transliteration": "dhairyavagiru, yāvāgū.",
+      "category": "Courage",
+      "generated_at": "2026-05-27T15:54:40.021969"
+    },
+    {
+      "english": "Face your fears, boldly.",
+      "kannada": "ನಿಮ್ಮ ಭಯಗಳನ್ನು ಎದುರಿಸಿ, ಧೈರ್ಯವಾಗಿ.",
+      "transliteration": "nim'ma bhaya-gaḷannu edurisi, dhairyavāgi.",
+      "category": "Courage",
+      "generated_at": "2026-05-27T15:54:40.021980"
+    },
+    {
+      "english": "Stand tall, with pride.",
+      "kannada": "ಎತ್ತರ ನಿಲ್ಲುವಿರಿ, ಹೆಮ್ಮೆಯಿಂದ.",
+      "transliteration": "ettara nilluviri, hemmeyinda.",
+      "category": "Courage",
+      "generated_at": "2026-05-27T15:54:40.021982"
+    },
+    {
+      "english": "Inner strength, shines through.",
+      "kannada": "ಒಳ ಮನಸ್ಸಿನ ಶಕ್ತಿ, ಹೊರಗೆ ಕಾಣುತ್ತದೆ.",
+      "transliteration": "oḷa manas'sina śakti, horage kāṇuttade.",
+      "category": "Courage",
+      "generated_at": "2026-05-27T15:54:40.021983"
+    },
+    {
+      "english": "Never give up, try again.",
+      "kannada": "ಒಂದೂ ಬಿಡಬೇಡಿ, ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.",
+      "transliteration": "ondū biḍabēḍi, matte prayatnisi.",
+      "category": "Courage",
+      "generated_at": "2026-05-27T15:54:40.021984"
     }
   ],
-  "last_updated": "2026-05-27T04:22:13.003079"
+  "last_updated": "2026-05-27T15:54:40.021986"
 }
