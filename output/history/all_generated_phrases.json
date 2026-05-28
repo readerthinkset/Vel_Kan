@@ -2869,7 +2869,42 @@
       "transliteration": "kashtappattu dudi, yashasviyagu.",
       "category": "Strength",
       "generated_at": "2026-05-28T17:34:41.512965"
+    },
+    {
+      "english": "Hello, how are you?",
+      "kannada": "ನಮಸ್ಕಾರ, ಹೇಗಿದ್ದೀರಾ?",
+      "transliteration": "Namaskaara, hegiddeera?",
+      "category": "Common Expressions",
+      "generated_at": "2026-05-28T19:32:15.208780"
+    },
+    {
+      "english": "Excuse me, please.",
+      "kannada": "ಕ್ಷಮಿಸಿ, ದಯವಿಟ್ಟು.",
+      "transliteration": "Kshamisi, dayavittu.",
+      "category": "Common Expressions",
+      "generated_at": "2026-05-28T19:32:15.208795"
+    },
+    {
+      "english": "What is this?",
+      "kannada": "ಇದು ಏನು?",
+      "transliteration": "Idu yenu?",
+      "category": "Common Expressions",
+      "generated_at": "2026-05-28T19:32:15.208797"
+    },
+    {
+      "english": "Where is the toilet?",
+      "kannada": "ಶೌಚಾಲಯ ಎಲ್ಲಿದೆ?",
+      "transliteration": "Shouchaalaya ellide?",
+      "category": "Common Expressions",
+      "generated_at": "2026-05-28T19:32:15.208798"
+    },
+    {
+      "english": "Have a nice day.",
+      "kannada": "ನಿಮ್ಮ ದಿನ ಚೆನ್ನಾಗಿರಲಿ.",
+      "transliteration": "Nimma dina chennaagirali.",
+      "category": "Common Expressions",
+      "generated_at": "2026-05-28T19:32:15.208799"
     }
   ],
-  "last_updated": "2026-05-28T17:34:41.512966"
+  "last_updated": "2026-05-28T19:32:15.208801"
 }
