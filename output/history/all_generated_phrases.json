@@ -2974,7 +2974,42 @@
       "transliteration": "Ellellu, sakaraatmakathe haradu.",
       "category": "Positive Life",
       "generated_at": "2026-05-29T15:45:37.124825"
+    },
+    {
+      "english": "Keep trying, you'll get there.",
+      "kannada": "ಪ್ರಯತ್ನಿಸುತ್ತಲೇ ಇರಿ, ನೀವು ಅಲ್ಲಿಗೆ ತಲುಪುತ್ತೀರಿ.",
+      "transliteration": "Prayatnistale iri, neevu allige taluputthiri.",
+      "category": "Success",
+      "generated_at": "2026-05-29T19:25:17.140675"
+    },
+    {
+      "english": "Every step forward, counts.",
+      "kannada": "ಪ್ರತಿ ಹೆಜ್ಜೆ, ಮುಂದೆ, ಲೆಕ್ಕಕ್ಕೆ ಬರುತ್ತದೆ.",
+      "transliteration": "Prati hejje, mundhe, lekkakke barutthade.",
+      "category": "Success",
+      "generated_at": "2026-05-29T19:25:17.140685"
+    },
+    {
+      "english": "Your effort, is seen.",
+      "kannada": "ನಿಮ್ಮ ಪ್ರಯತ್ನ, ಕಾಣುತ್ತಿದೆ.",
+      "transliteration": "Nimma prayatna, kaanutthide.",
+      "category": "Success",
+      "generated_at": "2026-05-29T19:25:17.140687"
+    },
+    {
+      "english": "Learn a little, daily.",
+      "kannada": "ಸ್ವಲ್ಪ ಕಲಿಯಿರಿ, ಪ್ರತಿದಿನ.",
+      "transliteration": "Swalpa kaliyiri, pratidina.",
+      "category": "Success",
+      "generated_at": "2026-05-29T19:25:17.140688"
+    },
+    {
+      "english": "You are learning, well.",
+      "kannada": "ನೀವು ಕಲಿಯುತ್ತಿದ್ದೀರಿ, ಚೆನ್ನಾಗಿ.",
+      "transliteration": "Neevu kaliyutthiddiri, chennagi.",
+      "category": "Success",
+      "generated_at": "2026-05-29T19:25:17.140689"
     }
   ],
-  "last_updated": "2026-05-29T15:45:37.124826"
+  "last_updated": "2026-05-29T19:25:17.140691"
 }
