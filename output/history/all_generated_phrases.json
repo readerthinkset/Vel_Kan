@@ -3149,7 +3149,42 @@
       "transliteration": "Ā kiccan'nu, endigū kaḷedukoḷḷabēḍi.",
       "category": "Hope",
       "generated_at": "2026-05-30T21:10:49.473287"
+    },
+    {
+      "english": "Ten fingers, ten toes.",
+      "kannada": "ಹತ್ತು ಬೆರಳು, ಹತ್ತು ಕಾಲು.",
+      "transliteration": "Hattu beralu, hattu kaalu.",
+      "category": "Numbers Kannada",
+      "generated_at": "2026-05-31T04:25:04.051313"
+    },
+    {
+      "english": "Just one more minute.",
+      "kannada": "ಇನ್ನೂ ಒಂದು ನಿಮಿಷ.",
+      "transliteration": "Innoo ondu nimisha.",
+      "category": "Numbers Kannada",
+      "generated_at": "2026-05-31T04:25:04.051325"
+    },
+    {
+      "english": "Five friends, playing happily.",
+      "kannada": "ಐದು ಗೆಳೆಯರು, ಸಂತೋಷವಾಗಿ ಆಡುತ್ತಿದ್ದಾರೆ.",
+      "transliteration": "Aidu geliyaru, santoshavagi aaduttiddare.",
+      "category": "Numbers Kannada",
+      "generated_at": "2026-05-31T04:25:04.051327"
+    },
+    {
+      "english": "Seven days a week.",
+      "kannada": "ವಾರಕ್ಕೆ ಏಳು ದಿನಗಳು.",
+      "transliteration": "Vaarakke elu dinagalu.",
+      "category": "Numbers Kannada",
+      "generated_at": "2026-05-31T04:25:04.051328"
+    },
+    {
+      "english": "Twenty-four hours, always.",
+      "kannada": "ಇಪ್ಪತ್ತನಾಲ್ಕು ಗಂಟೆ, ಯಾವಾಗಲೂ.",
+      "transliteration": "Ippattanālku gante, yāvāgalū.",
+      "category": "Numbers Kannada",
+      "generated_at": "2026-05-31T04:25:04.051329"
     }
   ],
-  "last_updated": "2026-05-30T21:10:49.473289"
+  "last_updated": "2026-05-31T04:25:04.051331"
 }
