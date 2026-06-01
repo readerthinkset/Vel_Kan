@@ -3254,7 +3254,42 @@
       "transliteration": "tappugalannu oppikolli, avugalimda kaliyiri.",
       "category": "Purpose",
       "generated_at": "2026-05-31T21:12:13.461078"
+    },
+    {
+      "english": "Even if slow, keep moving.",
+      "kannada": "ನಿಧಾನವಾದರೂ, ಸಾಗುತ್ತಾ ಇರಿ.",
+      "transliteration": "Nidhānavādaru, sāguttā iri.",
+      "category": "Perseverance",
+      "generated_at": "2026-06-01T17:48:16.689120"
+    },
+    {
+      "english": "Never stop learning, always improve.",
+      "kannada": "ಕಲಿಯುವುದನ್ನು ನಿಲ್ಲಿಸಬೇಡಿ, ಸುಧಾರಿಸುತ್ತಾ ಇರಿ.",
+      "transliteration": "Kaliyuvudannu nillisabēḍi, sudhārisuttā iri.",
+      "category": "Perseverance",
+      "generated_at": "2026-06-01T17:48:16.689130"
+    },
+    {
+      "english": "Your effort matters, keep going.",
+      "kannada": "ನಿಮ್ಮ ಪ್ರಯತ್ನ ಮುಖ್ಯ, ಮುಂದುವರೆಯಿರಿ.",
+      "transliteration": "Nim'ma prayatna mukhya, munduvareyiri.",
+      "category": "Perseverance",
+      "generated_at": "2026-06-01T17:48:16.689132"
+    },
+    {
+      "english": "Patience, and you will succeed.",
+      "kannada": "ತಾಳ್ಮೆ, ನೀವು ಗೆಲ್ಲುತ್ತೀರಿ.",
+      "transliteration": "Tāḷme, nīvu gelluttīri.",
+      "category": "Perseverance",
+      "generated_at": "2026-06-01T17:48:16.689133"
+    },
+    {
+      "english": "One day at a time, you'll get there.",
+      "kannada": "ಒಂದೊಂದೇ ದಿನ, ನೀವು ಅಲ್ಲಿಗೆ ತಲುಪುವಿರಿ.",
+      "transliteration": "Ondonde dina, nīvu allige talupuviri.",
+      "category": "Perseverance",
+      "generated_at": "2026-06-01T17:48:16.689134"
     }
   ],
-  "last_updated": "2026-05-31T21:12:13.461079"
+  "last_updated": "2026-06-01T17:48:16.689136"
 }
