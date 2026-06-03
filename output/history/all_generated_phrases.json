@@ -3359,7 +3359,42 @@
       "transliteration": "nidhaanavaagi keli, nimagaagi.",
       "category": "Inner Peace",
       "generated_at": "2026-06-03T04:52:15.977614"
+    },
+    {
+      "english": "Later, maybe.",
+      "kannada": "ಆಮೇಲೆ, ನೋಡೋಣ.",
+      "transliteration": "āmēle, nōḍōṇa.",
+      "category": "Time Kannada",
+      "generated_at": "2026-06-03T18:22:31.927488"
+    },
+    {
+      "english": "Already done, see?",
+      "kannada": "ಇಾಗಲೇ ಆಯ್ತು, ನೋಡು.",
+      "transliteration": "igāle āytu, nōḍu.",
+      "category": "Time Kannada",
+      "generated_at": "2026-06-03T18:22:31.927498"
+    },
+    {
+      "english": "Yesterday, I was busy.",
+      "kannada": "ನಿನ್ನೆ, ನನಗೆ ಕೆಲಸ ಇತ್ತು.",
+      "transliteration": "ninne, nanage kelasa ittu.",
+      "category": "Time Kannada",
+      "generated_at": "2026-06-03T18:22:31.927500"
+    },
+    {
+      "english": "Tomorrow, what's planned?",
+      "kannada": "ನಾಳೆ, ಏನು ಯೋಜನೆ?",
+      "transliteration": "nāḷe, ēnu yōjane?",
+      "category": "Time Kannada",
+      "generated_at": "2026-06-03T18:22:31.927502"
+    },
+    {
+      "english": "Today, feeling good.",
+      "kannada": "ಇಂದು, ಚೆನ್ನಾಗಿ ಅನಿಸ್ತಿದೆ.",
+      "transliteration": "indu, cennāgi anisthide.",
+      "category": "Time Kannada",
+      "generated_at": "2026-06-03T18:22:31.927503"
     }
   ],
-  "last_updated": "2026-06-03T04:52:15.977616"
+  "last_updated": "2026-06-03T18:22:31.927504"
 }
