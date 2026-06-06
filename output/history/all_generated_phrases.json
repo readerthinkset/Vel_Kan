@@ -3429,7 +3429,42 @@
       "transliteration": "krutya, heccu maatanaaduttade.",
       "category": "Wisdom",
       "generated_at": "2026-06-04T15:23:38.031946"
+    },
+    {
+      "english": "Hello, table for two?",
+      "kannada": "ನಮಸ್ಕಾರ, ಇಬ್ಬರಿಗೆ ಊಟಕ್ಕೆ?",
+      "transliteration": "namaskaara, ibbarige ooṭakke?",
+      "category": "Restaurant Kannada",
+      "generated_at": "2026-06-06T17:59:24.365482"
+    },
+    {
+      "english": "Can I see the menu, please?",
+      "kannada": "ಮೆನು ನೋಡಬಹುದೇ, ದಯವಿಟ್ಟು?",
+      "transliteration": "menu nooḍabahudē, dayaviṭṭu?",
+      "category": "Restaurant Kannada",
+      "generated_at": "2026-06-06T17:59:24.365493"
+    },
+    {
+      "english": "I'll have this one.",
+      "kannada": "ನಾನು ಇದನ್ನೇ ತಗೊಳ್ಳುತ್ತೇನೆ.",
+      "transliteration": "nānu idannē taggoḷḷuttēne.",
+      "category": "Restaurant Kannada",
+      "generated_at": "2026-06-06T17:59:24.365495"
+    },
+    {
+      "english": "Is it spicy, or mild?",
+      "kannada": "ಇದು ಖಾರನಾ, ಅಥವಾ ಮಿತವಾಯಿತೆ?",
+      "transliteration": "idu khāranā, athavā mitavāyite?",
+      "category": "Restaurant Kannada",
+      "generated_at": "2026-06-06T17:59:24.365496"
+    },
+    {
+      "english": "One water, please.",
+      "kannada": "ಒಂದು ನೀರು, ದಯವಿಟ್ಟು.",
+      "transliteration": "ondu nīru, dayaviṭṭu.",
+      "category": "Restaurant Kannada",
+      "generated_at": "2026-06-06T17:59:24.365497"
     }
   ],
-  "last_updated": "2026-06-04T15:23:38.031948"
+  "last_updated": "2026-06-06T17:59:24.365499"
 }
