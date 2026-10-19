@@ -2,11 +2,11 @@ name: Velocity Kannada - Daily 5x Upload
 
 on:
   schedule:
-    - cron: '0 12 * * *'  # 7:00 AM EST
-    - cron: '0 14 * * *'  # 9:00 AM EST
-    - cron: '0 17 * * *'  # 12:00 PM EST
-    - cron: '0 20 * * *'  # 3:00 PM EST
-    - cron: '0 0 * * *'   # 7:00 PM EST
+    - cron: '42 12 * * *'  # 7:00 AM EST
+    - cron: '42 14 * * *'  # 9:00 AM EST
+    - cron: '42 17 * * *'  # 12:00 PM EST
+    - cron: '42 20 * * *'  # 3:00 PM EST
+    - cron: '42 0 * * *'   # 7:00 PM EST
 
   workflow_dispatch:
 
