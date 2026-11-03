@@ -3674,7 +3674,42 @@
       "transliteration": "ninteaddu, sariyaadudakkaagi.",
       "category": "Courage",
       "generated_at": "2026-10-03T04:49:23.436581"
+    },
+    {
+      "english": "Help me, please, I need assistance",
+      "kannada": "ಸಹಾಯ ಮಾಡಿ, ದಯವಿಟ್ಟು, ನನಗೆ ಸಹಾಯ ಬೇಕು",
+      "transliteration": "sahaya maadi, dayavittu, nanage sahaya beku",
+      "category": "Emergency Kannada",
+      "generated_at": "2026-11-03T07:15:45.325583"
+    },
+    {
+      "english": "Call 112 now, please, for emergency",
+      "kannada": "ಈಗ ೧೧೨ ಕರೆ ಮಾಡಿ, ದಯವಿಟ್ಟು, ತುರ್ತು",
+      "transliteration": "ega ೧೧೨ kare maadi, dayavittu, tur್ತು",
+      "category": "Emergency Kannada",
+      "generated_at": "2026-11-03T07:15:45.325595"
+    },
+    {
+      "english": "I am hurt, please, call an ambulance",
+      "kannada": "ನನಗೆ ಗಾಯವಾಗಿದೆ, ದಯವಿಟ್ಟು, ಅಂಬುಲೆನ್ಸ್ ಕರೆ ಮಾಡಿ",
+      "transliteration": "nanage gாயa vaagide, dayavittu, ambulance kare maadi",
+      "category": "Emergency Kannada",
+      "generated_at": "2026-11-03T07:15:45.325596"
+    },
+    {
+      "english": "Where is the nearest hospital, please?",
+      "kannada": "ಹತ್ತಿರದ ಆಸ್ಪತ್ರೆ ಎಲ್ಲಿದೆ, ದಯವಿಟ್ಟು?",
+      "transliteration": "hattirada aspatare ellide, dayavittu?",
+      "category": "Emergency Kannada",
+      "generated_at": "2026-11-03T07:15:45.325596"
+    },
+    {
+      "english": "Stop, thief, please help me!",
+      "kannada": "ನಿಲ್ಲಿ, ಕಳ್ಳನೆ, ದಯವಿಟ್ಟು, ನನಗೆ ಸಹಾಯ ಮಾಡಿ",
+      "transliteration": "nill i, kal'lane, dayavittu, nanage sahaya maadi",
+      "category": "Emergency Kannada",
+      "generated_at": "2026-11-03T07:15:45.325597"
     }
   ],
-  "last_updated": "2026-10-03T04:49:23.436582"
+  "last_updated": "2026-11-03T07:15:45.325598"
 }
