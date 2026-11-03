@@ -3744,7 +3744,42 @@
       "transliteration": "ajja, kathe heli, namage ishta",
       "category": "Family Terms",
       "generated_at": "2026-11-03T19:55:13.680241"
+    },
+    {
+      "english": "Hello, how are you today, my friend?",
+      "kannada": "ನಮಸ್ಕಾರ, ಇಂದು ಹೇಗಿದ್ದೀಯ, ನನ್ನ ಸ್ನೇಹಿತನೇ?",
+      "transliteration": "namaskāra, indū hēgiddīya, nanna snēhitane?",
+      "category": "Greetings",
+      "generated_at": "2026-11-03T20:37:54.016796"
+    },
+    {
+      "english": "Hi there, welcome, have a great day!",
+      "kannada": "ನಮಸ್ಕಾರ, ಸ್ವಾಗತ, ನಿಮಗೆ ಶುಭ ದಿನವಾಗಲಿ!",
+      "transliteration": "namaskāra, svāgata, nimage śubha dinavāgalē!",
+      "category": "Greetings",
+      "generated_at": "2026-11-03T20:37:54.016806"
+    },
+    {
+      "english": "Good morning, please have a seat, friend.",
+      "kannada": "ಶುಭೋದಯ, ದಯವಿಟ್ಟು ಕುಳಿತುಕೊಳ್ಳಿ, ಸ್ನೇಹಿತ.",
+      "transliteration": "śubōdaya, dayaviṭṭu kuḷitukoḷḷi, snēhit.",
+      "category": "Greetings",
+      "generated_at": "2026-11-03T20:37:54.016807"
+    },
+    {
+      "english": "Good evening, how is your day going?",
+      "kannada": "ಶುಭ ಸಂಜೆ, ನಿಮ್ಮ ದಿನ ಹೇಗಿದೆ?",
+      "transliteration": "śubha sanje, nimma dina hēgide?",
+      "category": "Greetings",
+      "generated_at": "2026-11-03T20:37:54.016808"
+    },
+    {
+      "english": "Welcome back, you’re here today, great!",
+      "kannada": "ಮತ್ತೆ ಸ್ವಾಗತ, ನೀನು ಇಂದು ಬಂದೆ, ಚೆನ್ನಾಗಿದೆ!",
+      "transliteration": "matte svāgata, nīnu indu bandē, chennāgide!",
+      "category": "Greetings",
+      "generated_at": "2026-11-03T20:37:54.016809"
     }
   ],
-  "last_updated": "2026-11-03T19:55:13.680242"
+  "last_updated": "2026-11-03T20:37:54.016811"
 }
