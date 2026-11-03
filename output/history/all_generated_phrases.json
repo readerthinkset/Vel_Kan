@@ -3779,7 +3779,42 @@
       "transliteration": "matte svāgata, nīnu indu bandē, chennāgide!",
       "category": "Greetings",
       "generated_at": "2026-11-03T20:37:54.016809"
+    },
+    {
+      "english": "What is today's special, please?",
+      "kannada": "ಇಂದು ವಿಶೇಷ ಏನು, ದಯವಿಟ್ಟು ಹೇಳಿ.",
+      "transliteration": "indu vishesha enu, dayavittu heḷi.",
+      "category": "Restaurant Kannada",
+      "generated_at": "2026-11-03T22:31:11.605675"
+    },
+    {
+      "english": "We are ready to order, now.",
+      "kannada": "ನಾವು ಈಗ ಆರ್ಡರ್ ಮಾಡಲು ಸಿದ್ಧ, ಈಗಲೇ.",
+      "transliteration": "naavu īgaarḍar maadalu siddha, īgalē.",
+      "category": "Restaurant Kannada",
+      "generated_at": "2026-11-03T22:31:11.605685"
+    },
+    {
+      "english": "Can we see the menu, please?",
+      "kannada": "ಮೆನು ತೋರಿಸಿ, ದಯವಿಟ್ಟು.",
+      "transliteration": "menu tōrisi, dayavittu.",
+      "category": "Restaurant Kannada",
+      "generated_at": "2026-11-03T22:31:11.605686"
+    },
+    {
+      "english": "No spicy food, please.",
+      "kannada": "ಮೆಣಸು ಕಡಿಮೆ, ದಯವಿಟ್ಟು.",
+      "transliteration": "meṇasu kaḍime, dayavittu.",
+      "category": "Restaurant Kannada",
+      "generated_at": "2026-11-03T22:31:11.605686"
+    },
+    {
+      "english": "I want mild curry, please.",
+      "kannada": "ನನಗೆ ಹಗುರ ಗರೆವಿ ಬೇಕು, ದಯವಿಟ್ಟು.",
+      "transliteration": "nanage hagu ra garevi beku, dayavittu.",
+      "category": "Restaurant Kannada",
+      "generated_at": "2026-11-03T22:31:11.605687"
     }
   ],
-  "last_updated": "2026-11-03T20:37:54.016811"
+  "last_updated": "2026-11-03T22:31:11.605689"
 }
