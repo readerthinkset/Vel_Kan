@@ -3709,7 +3709,42 @@
       "transliteration": "nill i, kal'lane, dayavittu, nanage sahaya maadi",
       "category": "Emergency Kannada",
       "generated_at": "2026-11-03T07:15:45.325597"
+    },
+    {
+      "english": "Call your mother, come home now",
+      "kannada": "ಅಮ್ಮಗೆ ಕರೆ ಮಾಡಿ, ಈಗಲೇ ಮನೆಗೆ ಬಾ",
+      "transliteration": "ammage kare maadi, eegale manege baa",
+      "category": "Family Terms",
+      "generated_at": "2026-11-03T19:55:13.680223"
+    },
+    {
+      "english": "Father, please listen, I’m telling you",
+      "kannada": "ಅಪ್ಪ, ದಯವಿಟ್ಟು ಕೇಳಿ, ನಾನು ಹೇಳುತ್ತಿದ್ದೇನೆ",
+      "transliteration": "appa, dayavittu keli, naanu heluttiddene",
+      "category": "Family Terms",
+      "generated_at": "2026-11-03T19:55:13.680236"
+    },
+    {
+      "english": "Ask your sibling, we can help",
+      "kannada": "ನಿನ್ನ ಸಹೋದರನಿಗೆ ಕೇಳು, ನಾವು ಸಹಾಯ ಮಾಡುತ್ತೇವೆ",
+      "transliteration": "ninna sahodaranige kelu, naavu sahaaya maaduttve",
+      "category": "Family Terms",
+      "generated_at": "2026-11-03T19:55:13.680237"
+    },
+    {
+      "english": "Grandma, sit down, have tea",
+      "kannada": "ಅಜ್ಜಿ, ಕುಳಿತುಕೊಳ್ಳಿ, ಚಹಾ ಕುಡಿ",
+      "transliteration": "ajji, kulitukolli, chaahaa kudi",
+      "category": "Family Terms",
+      "generated_at": "2026-11-03T19:55:13.680239"
+    },
+    {
+      "english": "Grandpa, tell stories, we enjoy them",
+      "kannada": "ಅಜ್ಜ, ಕಥೆ ಹೇಳಿ, ನಮಗೆ ಇಷ್ಟ",
+      "transliteration": "ajja, kathe heli, namage ishta",
+      "category": "Family Terms",
+      "generated_at": "2026-11-03T19:55:13.680241"
     }
   ],
-  "last_updated": "2026-11-03T07:15:45.325598"
+  "last_updated": "2026-11-03T19:55:13.680242"
 }
