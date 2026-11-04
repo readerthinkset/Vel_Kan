@@ -3814,7 +3814,42 @@
       "transliteration": "nanage hagu ra garevi beku, dayavittu.",
       "category": "Restaurant Kannada",
       "generated_at": "2026-11-03T22:31:11.605687"
+    },
+    {
+      "english": "Learn daily, grow steadily, keep going",
+      "kannada": "ಪ್ರತಿದಿನ ಕಲಿಯಿರಿ, ನಿಧಾನವಾಗಿ ಬೆಳೆಯಿರಿ, ಮುಂದುವರಿಯಿರಿ",
+      "transliteration": "pratidina kaliyiri, nidhana vaagi beḷeyiri, munduvariyiri",
+      "category": "Growth",
+      "generated_at": "2026-11-04T00:56:09.181160"
+    },
+    {
+      "english": "Make mistakes, learn fast, improve again",
+      "kannada": "ತಪ್ಪು ಮಾಡಿ, ತ್ವರಿತವಾಗಿ ಕಲಿಯಿರಿ, ಮತ್ತೆ ಉತ್ತಮಪಡಿರಿ",
+      "transliteration": "tappu maadi, tvaritavaagi kaliyiri, matte uttamapaḍiri",
+      "category": "Growth",
+      "generated_at": "2026-11-04T00:56:09.181171"
+    },
+    {
+      "english": "Start with one step, build confidence",
+      "kannada": "ಒಂದು ಹೆಜ್ಜೆಯಿಂದ ಆರಂಭಿಸಿ, ಆತ್ಮವಿಶ್ವಾಸ ಕಟ್ಟಿರಿ",
+      "transliteration": "ondhu hejjeyinda aarambhisi, atma vishvaasa kattiri",
+      "category": "Growth",
+      "generated_at": "2026-11-04T00:56:09.181173"
+    },
+    {
+      "english": "Stay patient, progress comes in time",
+      "kannada": "ಸಹನೆ ಇರಿ, ಸಮಯದಲ್ಲಿ ಪ್ರಗತಿ ಬರುತ್ತದೆ",
+      "transliteration": "sahane iri, samayadalli pragati baruttade",
+      "category": "Growth",
+      "generated_at": "2026-11-04T00:56:09.181177"
+    },
+    {
+      "english": "Ask questions, deepen understanding, keep improving",
+      "kannada": "ಪ್ರಶ್ನೆ ಕೇಳಿ, ಅರ್ಥವನ್ನು ಆಳವಾಗಿ ಮಾಡಿ, ಉತ್ತಮಪಡಿರಿ",
+      "transliteration": "praśne keli, arthavannu aḷavaagi maadi, uttamapaḍiri",
+      "category": "Growth",
+      "generated_at": "2026-11-04T00:56:09.181179"
     }
   ],
-  "last_updated": "2026-11-03T22:31:11.605689"
+  "last_updated": "2026-11-04T00:56:09.181181"
 }
