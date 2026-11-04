@@ -3884,7 +3884,42 @@
       "transliteration": "tappugaLinda kaliy ut, avanne geluvagi badalisu",
       "category": "Success",
       "generated_at": "2026-11-04T06:59:35.256763"
+    },
+    {
+      "english": "Hello, where is the bus stop, please?",
+      "kannada": "ನಮಸ್ಕಾರ, ದಯವಿಟ್ಟು ಬಸ್ ನಿಲ್ದಾಣ ಎಲ್ಲಿ?",
+      "transliteration": "namaskaara, dayavittu bus nildaaṇa elli?",
+      "category": "Travel Kannada",
+      "generated_at": "2026-11-04T20:03:24.463997"
+    },
+    {
+      "english": "Excuse me, how much is this ticket?",
+      "kannada": "ಕ್ಷಮಿಸಿ, ಇದು ಟಿಕೆಟ್ ಎಷ್ಟು?",
+      "transliteration": "kshamisi, idu ticket eshtu?",
+      "category": "Travel Kannada",
+      "generated_at": "2026-11-04T20:03:24.464007"
+    },
+    {
+      "english": "I need water, please, near this shop.",
+      "kannada": "ನನಗೆ ನೀರು ಬೇಕು, ದಯವಿಟ್ಟು, ಈ ಅಂಗಡಿಯ ಬಳಿ.",
+      "transliteration": "nanage neeru beku, dayavittu, ee aṅkiya baḷi.",
+      "category": "Travel Kannada",
+      "generated_at": "2026-11-04T20:03:24.464009"
+    },
+    {
+      "english": "Is this train going to Mysuru, right?",
+      "kannada": "ಈ ರೈಲು ಮೈಸೂರು ಕಡೆಗೆ ಹೋಗುತ್ತದೆಯಾ?",
+      "transliteration": "ee railu mysuru kadege hoguttadeyaa?",
+      "category": "Travel Kannada",
+      "generated_at": "2026-11-04T20:03:24.464010"
+    },
+    {
+      "english": "Please show me the route, step by step.",
+      "kannada": "ದಯವಿಟ್ಟು ಮಾರ್ಗ ತೋರಿಸಿ, ನಿಧಾನವಾಗಿ ಒಂದೊಂದಾಗಿ.",
+      "transliteration": "dayavittu maarga torisi, nitaanavaagi oṇdoṇdaagi.",
+      "category": "Travel Kannada",
+      "generated_at": "2026-11-04T20:03:24.464011"
     }
   ],
-  "last_updated": "2026-11-04T06:59:35.256765"
+  "last_updated": "2026-11-04T20:03:24.464012"
 }
