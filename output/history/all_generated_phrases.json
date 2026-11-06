@@ -4164,7 +4164,42 @@
       "transliteration": "aid u nimisha, eegale odalu aarambhisi",
       "category": "Numbers Kannada",
       "generated_at": "2026-11-05T22:53:15.363324"
+    },
+    {
+      "english": "Take one step, keep going, be brave",
+      "kannada": "ಒಂದು ಹೆಜ್ಜೆ ಇಡು, ಮುಂದುವರಿಯು, ಧೈರ್ಯವಾಗಿರು",
+      "transliteration": "ondu hejjey idu, munduvari, dhairyavaagiru",
+      "category": "Courage",
+      "generated_at": "2026-11-06T01:07:55.088038"
+    },
+    {
+      "english": "Feel fear, breathe, then move forward",
+      "kannada": "ಭಯವಾಗಲಿ, ಉಸಿರೆಡು, ನಂತರ ಮುಂದೆ ಹೋಗು",
+      "transliteration": "bhayavaagali, usiredu, naantara mundhe hogu",
+      "category": "Courage",
+      "generated_at": "2026-11-06T01:07:55.088049"
+    },
+    {
+      "english": "Small tries, big courage, start today",
+      "kannada": "ಸಣ್ಣ ಪ್ರಯತ್ನ, ದೊಡ್ಡ ಧೈರ್ಯ, ಇಂದೇ ಆರಂಭಿಸು",
+      "transliteration": "sanna prayatna, doDDa dhairya, inde aarambhisu",
+      "category": "Courage",
+      "generated_at": "2026-11-06T01:07:55.088050"
+    },
+    {
+      "english": "Stand tall, speak kindly, face challenges",
+      "kannada": "ಎದ್ದು ನಿಲ್ಲು, ಸೌಮ್ಯವಾಗಿ ಮಾತನಾಡು, ಸವಾಲುಗಳನ್ನು ಎದುರಿಸು",
+      "transliteration": "eddu nillu, saumya vaagi maataadu, savaalugaLannu edurisu",
+      "category": "Courage",
+      "generated_at": "2026-11-06T01:07:55.088051"
+    },
+    {
+      "english": "You can do it, try again, never quit",
+      "kannada": "ನೀನು ಮಾಡಬಹುದು, ಮತ್ತೆ ಪ್ರಯತ್ನಿಸು, ಕೈಬಿಡಬೇಡ",
+      "transliteration": "neenu maadabahudu, matte prayatnisu, kaibida beda",
+      "category": "Courage",
+      "generated_at": "2026-11-06T01:07:55.088052"
     }
   ],
-  "last_updated": "2026-11-05T22:53:15.363325"
+  "last_updated": "2026-11-06T01:07:55.088053"
 }
