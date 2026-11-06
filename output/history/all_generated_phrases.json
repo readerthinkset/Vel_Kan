@@ -4234,7 +4234,42 @@
       "transliteration": "gamanisi, naṃtara biḍi, usiru mundevarisi",
       "category": "Mindfulness",
       "generated_at": "2026-11-06T07:25:23.755587"
+    },
+    {
+      "english": "How much is this, please,",
+      "kannada": "ಇದು ಎಷ್ಟು, ದಯವಿಟ್ಟು,",
+      "transliteration": "idu eshtu, dayavittu,",
+      "category": "Shopping Kannada",
+      "generated_at": "2026-11-06T19:42:57.728196"
+    },
+    {
+      "english": "Do you have this in my size,",
+      "kannada": "ಇದು ನನ್ನ ಸೈಜಿನಲ್ಲಿ ಇದೆಯೇ,",
+      "transliteration": "idu nanna saijinali ideye,",
+      "category": "Shopping Kannada",
+      "generated_at": "2026-11-06T19:42:57.728207"
+    },
+    {
+      "english": "I want to buy this today,",
+      "kannada": "ಇದನ್ನು ಇಂದು ಖರೀದಿಸಲು ಇಷ್ಟ,",
+      "transliteration": "idannu indu kharidisalu ishta,",
+      "category": "Shopping Kannada",
+      "generated_at": "2026-11-06T19:42:57.728209"
+    },
+    {
+      "english": "Can I try it on, please,",
+      "kannada": "ನಾನು ಇದನ್ನು ಟ್ರೈ ಮಾಡಬಹುದೇ, ದಯವಿಟ್ಟು,",
+      "transliteration": "nanu idannu try maadabahude, dayavittu,",
+      "category": "Shopping Kannada",
+      "generated_at": "2026-11-06T19:42:57.728211"
+    },
+    {
+      "english": "Where is the billing counter,",
+      "kannada": "ಬಿಲ್ಲಿಂಗ್ ಕೌಂಟರ್ ಎಲ್ಲಿದೆ,",
+      "transliteration": "billing counter ellide,",
+      "category": "Shopping Kannada",
+      "generated_at": "2026-11-06T19:42:57.728212"
     }
   ],
-  "last_updated": "2026-11-06T07:25:23.755589"
+  "last_updated": "2026-11-06T19:42:57.728214"
 }
