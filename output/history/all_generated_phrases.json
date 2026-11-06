@@ -4269,7 +4269,42 @@
       "transliteration": "billing counter ellide,",
       "category": "Shopping Kannada",
       "generated_at": "2026-11-06T19:42:57.728212"
+    },
+    {
+      "english": "Be kind, speak softly, help today",
+      "kannada": "ದಯೆಯಿಂದ ಇರಿ, ನಿಧಾನವಾಗಿ ಮಾತನಾಡಿ, ಇಂದು ಸಹಾಯ ಮಾಡಿ",
+      "transliteration": "dayind i ri, nidhānavaagi māḍi, indu sāhāya māḍi",
+      "category": "Kindness",
+      "generated_at": "2026-11-06T20:33:28.829960"
+    },
+    {
+      "english": "Smile first, you can brighten someone",
+      "kannada": "ಮೊದಲೇ ನಗು, ಯಾರನ್ನಾದರೂ ಉಜ್ವಲಗೊಳಿಸಬಹುದು",
+      "transliteration": "modalē nagu, yāvaranādaru ujjvalagoḷisabahudu",
+      "category": "Kindness",
+      "generated_at": "2026-11-06T20:33:28.829971"
+    },
+    {
+      "english": "Listen carefully, kindness grows in silence",
+      "kannada": "ಗಮನವಾಗಿ ಕೇಳಿ, ಮೌನದಲ್ಲಿಯೇ ದಯೆ ಬೆಳೆಯುತ್ತದೆ",
+      "transliteration": "gamanavāgi kēḷi, mauṇadalli yē daye beḷeyuttade",
+      "category": "Kindness",
+      "generated_at": "2026-11-06T20:33:28.829972"
+    },
+    {
+      "english": "Thank someone, even a small favor",
+      "kannada": "ಒಬ್ಬರಿಗೆ ಧನ್ಯವಾದ ಹೇಳಿ, ಸಣ್ಣ ಸಹಾಯಕ್ಕೂ",
+      "transliteration": "obbarige dhanyavāda hēḷi, saṇṇa sāhāyakū",
+      "category": "Kindness",
+      "generated_at": "2026-11-06T20:33:28.829973"
+    },
+    {
+      "english": "Offer help, without expecting anything back",
+      "kannada": "ಸಹಾಯ ಮಾಡು, ಏನನ್ನೂ ಹಿಂದಿರುಗಿ ಬೇಡ",
+      "transliteration": "sahāya māḍu, ēnannyū hindirugi bēḍa",
+      "category": "Kindness",
+      "generated_at": "2026-11-06T20:33:28.829974"
     }
   ],
-  "last_updated": "2026-11-06T19:42:57.728214"
+  "last_updated": "2026-11-06T20:33:28.829975"
 }
