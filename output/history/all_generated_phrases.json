@@ -4339,7 +4339,42 @@
       "transliteration": "ee ga gamanakodi, nimme mele nambike i di, nede",
       "category": "Strength",
       "generated_at": "2026-11-06T22:25:14.239080"
+    },
+    {
+      "english": "Hello, how are you doing today?",
+      "kannada": "ನಮಸ್ಕಾರ, ಇಂದಿಗೆ ಹೇಗಿದ್ದೀರಾ?",
+      "transliteration": "namaskāra, indige hēgiddīrā?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-07T00:19:26.549213"
+    },
+    {
+      "english": "Please, speak a little more slowly.",
+      "kannada": "ದಯವಿಟ್ಟು ಸ್ವಲ್ಪ ನಿಧಾನವಾಗಿ ಮಾತನಾಡಿ.",
+      "transliteration": "dayaviṭṭu swalpa nidhānavāgi māṭāḍi.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-07T00:19:26.549223"
+    },
+    {
+      "english": "Thank you, you helped me a lot.",
+      "kannada": "ಧನ್ಯವಾದಗಳು, ನೀವು ನನಗೆ ಬಹಳ ಸಹಾಯ ಮಾಡಿದ್ದೀರಿ.",
+      "transliteration": "dhanyavādagaḷu, nīvu nanage bahaḷa sahāya māḍiddīri.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-07T00:19:26.549224"
+    },
+    {
+      "english": "Excuse me, where is the bus stop?",
+      "kannada": "ಕ್ಷಮಿಸಿ, ಬಸ್ ನಿಲ್ದಾಣ ಎಲ್ಲಿ ಇದೆ?",
+      "transliteration": "kṣamisi, bus nildaāṇa elli ide?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-07T00:19:26.549227"
+    },
+    {
+      "english": "Sorry, I didn’t understand.",
+      "kannada": "ಕ್ಷಮಿಸಿ, ನನಗೆ ಅರ್ಥವಾಗಲಿಲ್ಲ.",
+      "transliteration": "kṣamisi, nanage arthavāgalillī.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-07T00:19:26.549228"
     }
   ],
-  "last_updated": "2026-11-06T22:25:14.239081"
+  "last_updated": "2026-11-07T00:19:26.549230"
 }
