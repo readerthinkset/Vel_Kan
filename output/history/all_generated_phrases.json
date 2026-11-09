@@ -4689,7 +4689,42 @@
       "transliteration": "dhairyadi ndiri, indu kramakai koḷḷi",
       "category": "Growth",
       "generated_at": "2026-11-09T00:00:06.824272"
+    },
+    {
+      "english": "I forgive you, please continue kindly.",
+      "kannada": "ನಾನು ನಿನ್ನನ್ನು ಕ್ಷಮಿಸುತ್ತೇನೆ, ದಯೆಯಿಂದ ಮುಂದುವರಿಯು.",
+      "transliteration": "nanu ninnannu kshamisuttene, dayeyinda munduvariyu",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:12:14.487584"
+    },
+    {
+      "english": "It’s okay, I choose forgiveness now.",
+      "kannada": "ಸರಿ, ಈಗ ನಾನು ಕ್ಷಮೆಯನ್ನು ಆಯ್ಕೆಮಾಡುತ್ತೇನೆ.",
+      "transliteration": "sari, aga nanu kshameyanun choose maduttini",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:12:14.487592"
+    },
+    {
+      "english": "Let go of hurt, we can heal.",
+      "kannada": "ನೋವನ್ನು ಬಿಡಿ, ನಾವು ಗುಣಮುಖರಾಗೋಣ.",
+      "transliteration": "novannu bidi, naavu gunamukharagoṇa",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:12:14.487594"
+    },
+    {
+      "english": "Forgive me too, I didn’t mean harm.",
+      "kannada": "ನನ್ನನ್ನೂ ಕ್ಷಮಿಸು, ನಾನು ಹಾನಿ ಮಾಡುವ ಉದ್ದೇಶವಿರಲಿಲ್ಲ.",
+      "transliteration": "nannannu kshamisu, nanu haani maduva uddeshavir alilla",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:12:14.487595"
+    },
+    {
+      "english": "I understand, so I forgive you.",
+      "kannada": "ನಾನು ಅರ್ಥಮಾಡಿಕೊಂಡೆ, ಆದ್ದರಿಂದ ಕ್ಷಮಿಸುತ್ತೇನೆ.",
+      "transliteration": "nanu arthamadu konde, adarinda kshamisuttene",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-09T07:12:14.487596"
     }
   ],
-  "last_updated": "2026-11-09T00:00:06.824274"
+  "last_updated": "2026-11-09T07:12:14.487598"
 }
