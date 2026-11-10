@@ -4899,7 +4899,42 @@
       "transliteration": "nīvu santōṣavāgiri, nimma dina ānandavāgalē!",
       "category": "Greetings",
       "generated_at": "2026-11-10T07:45:20.155332"
+    },
+    {
+      "english": "Mom, I’m on my way home.",
+      "kannada": "ಅಮ್ಮ, ನಾನು ಮನೆಗೆ ಬರುತ್ತಿದ್ದೇನೆ.",
+      "transliteration": "Amma, nānu manege baruttiddene.",
+      "category": "Family Terms",
+      "generated_at": "2026-11-10T08:21:44.882924"
+    },
+    {
+      "english": "Dad, can you help me now?",
+      "kannada": "ಅಪ್ಪ, ಈಗ ನನಗೆ ಸಹಾಯ ಮಾಡುತ್ತೀಯಾ?",
+      "transliteration": "Appa, īga nanage sahāya māḍuttīyā?",
+      "category": "Family Terms",
+      "generated_at": "2026-11-10T08:21:44.882938"
+    },
+    {
+      "english": "My parents, thank you for everything.",
+      "kannada": "ನನ್ನ ಅಪ್ಪ-ಅಮ್ಮ, ಎಲ್ಲಕ್ಕೂ ಧನ್ಯವಾದಗಳು.",
+      "transliteration": "Nanna appa-amma, ellakū dhanyavādagaḷu.",
+      "category": "Family Terms",
+      "generated_at": "2026-11-10T08:21:44.882940"
+    },
+    {
+      "english": "Brother, are you free right now?",
+      "kannada": "ಅಣ್ಣಾ, ಈಗ ನೀನು ಫ್ರೀನಾ?",
+      "transliteration": "Aṇṇā, īga nīnu friinā?",
+      "category": "Family Terms",
+      "generated_at": "2026-11-10T08:21:44.882941"
+    },
+    {
+      "english": "Sister, don’t worry, I’m here.",
+      "kannada": "ತಂಗಿ, ಚಿಂತಿಸಬೇಡ, ನಾನು ಇಲ್ಲಿದ್ದೀನಿ.",
+      "transliteration": "Taṅgi, chintisabēḍa, nānu illiddīni.",
+      "category": "Family Terms",
+      "generated_at": "2026-11-10T08:21:44.882943"
     }
   ],
-  "last_updated": "2026-11-10T07:45:20.155334"
+  "last_updated": "2026-11-10T08:21:44.882944"
 }
