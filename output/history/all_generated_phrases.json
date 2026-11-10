@@ -4969,7 +4969,42 @@
       "transliteration": "gauvarava nīḍi, haguravāguttade.",
       "category": "Kindness",
       "generated_at": "2026-11-10T19:26:37.685443"
+    },
+    {
+      "english": "Two cups, please.",
+      "kannada": "ಎರಡು ಕಪ್‌ಗಳು, ದಯವಿಟ್ಟು.",
+      "transliteration": "eradu kap’ugaḷu, dayavittu.",
+      "category": "Numbers",
+      "generated_at": "2026-11-10T20:48:43.334430"
+    },
+    {
+      "english": "I need three bananas.",
+      "kannada": "ನನಗೆ ಮೂರು ಬಾಳೆಹಣ್ಣು ಬೇಕು.",
+      "transliteration": "nanage mooru bāḷehaṇṇu beku.",
+      "category": "Numbers",
+      "generated_at": "2026-11-10T20:48:43.334441"
+    },
+    {
+      "english": "Give me four tickets.",
+      "kannada": "ನನಗೆ ನಾಲ್ಕು ಟಿಕೆಟ್‌ಗಳು ನೀಡಿ.",
+      "transliteration": "nanage nālku ṭikeṭ’ugaḷu nīdi.",
+      "category": "Numbers",
+      "generated_at": "2026-11-10T20:48:43.334443"
+    },
+    {
+      "english": "I want five laddus.",
+      "kannada": "ನನಗೆ ಐದು ಲಡ್ಡುಗಳು ಬೇಕು.",
+      "transliteration": "nanage aidu ladd u-gaḷu beku.",
+      "category": "Numbers",
+      "generated_at": "2026-11-10T20:48:43.334444"
+    },
+    {
+      "english": "Six people are coming.",
+      "kannada": "ಆರು ಜನರು ಬರುತ್ತಿದ್ದಾರೆ.",
+      "transliteration": "āru janaru baruttiddāre.",
+      "category": "Numbers",
+      "generated_at": "2026-11-10T20:48:43.334446"
     }
   ],
-  "last_updated": "2026-11-10T19:26:37.685444"
+  "last_updated": "2026-11-10T20:48:43.334448"
 }
