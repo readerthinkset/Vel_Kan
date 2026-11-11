@@ -5179,7 +5179,42 @@
       "transliteration": "Illi hattirave kadīme darada aayke ideyaa?",
       "category": "Travel",
       "generated_at": "2026-11-11T21:13:42.690481"
+    },
+    {
+      "english": "Hi, do you have dosa today, please?",
+      "kannada": "ನಮಸ್ಕಾರ, ಇಂದು ದೋಸೆ ಇದೆಯೆ, ದಯವಿಟ್ಟು?",
+      "transliteration": "namaskāra, indu dose ideye, dayavittu?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-11T23:23:35.872022"
+    },
+    {
+      "english": "Can I have one filter coffee, please?",
+      "kannada": "ದಯವಿಟ್ಟು, ನನಗೆ ಒಂದು ಫಿಲ್ಟರ್ ಕಾಫಿ ಕೊಡಿ.",
+      "transliteration": "dayavittu, nanage ondu filter kāfi kodi.",
+      "category": "Restaurant",
+      "generated_at": "2026-11-11T23:23:35.872034"
+    },
+    {
+      "english": "Is this food spicy, or mild?",
+      "kannada": "ಈ ಊಟ ಮಸಾಲೆಯೆ, ಅಥವಾ ಕಡಿಮೆ?",
+      "transliteration": "ī ūṭa masāleye, athavā kaḍime?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-11T23:23:35.872036"
+    },
+    {
+      "english": "What curry goes with rice today?",
+      "kannada": "ಇಂದು ಅಕ್ಕಿಗೆ ಯಾವ ಗ್ರೇವಿ ಇದೆ?",
+      "transliteration": "indu akki ge yāva grevi ide?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-11T23:23:35.872037"
+    },
+    {
+      "english": "Could we get the bill, please?",
+      "kannada": "ದಯವಿಟ್ಟು, ನಮಗೆ ಬಿಲ್ ಕೊಡಿ.",
+      "transliteration": "dayavittu, namage bill kodi.",
+      "category": "Restaurant",
+      "generated_at": "2026-11-11T23:23:35.872039"
     }
   ],
-  "last_updated": "2026-11-11T21:13:42.690483"
+  "last_updated": "2026-11-11T23:23:35.872042"
 }
