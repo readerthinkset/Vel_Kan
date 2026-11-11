@@ -5039,7 +5039,42 @@
       "transliteration": "innondu prayatna, badalāvaṇe kāṇuttade.",
       "category": "Success",
       "generated_at": "2026-11-10T22:13:46.964363"
+    },
+    {
+      "english": "Relax your jaw, soften your face.",
+      "kannada": "ನಿಮ್ಮ ದವಡೆಯನ್ನು ಸಡಿಲಿಸಿ, ಮುಖವನ್ನು ಮೃದುವಾಗಿಸಿರಿ.",
+      "transliteration": "nim'ma davaḍeyannu saḍilisi, mukha-vannu mṛdu-vagisiri",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-11T00:30:56.810598"
+    },
+    {
+      "english": "Inhale calm, exhale tension gently.",
+      "kannada": "ಸ್ವಲ್ಪ ಶಾಂತಿ ಒಳಗೆಳೆಯಿರಿ, ಒತ್ತಡವನ್ನು ಸೌಮ್ಯವಾಗಿ ಹೊರಬಿಡಿರಿ.",
+      "transliteration": "svalpa shānti oḷageḶiyiri, oṭṭaḍavannu saumyavāgi horabiḍiri",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-11T00:30:56.810611"
+    },
+    {
+      "english": "Let your shoulders drop slowly.",
+      "kannada": "ನಿಮ್ಮ ಭುಜಗಳು ನಿಧಾನವಾಗಿ ಇಳಿಯಲಿ.",
+      "transliteration": "nim'ma bhuja-gaḷu nidhānavāgi iḷiyali",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-11T00:30:56.810613"
+    },
+    {
+      "english": "Feel the air, move through you.",
+      "kannada": "ಗಾಳಿಯ ಅನುಭವ ಮಾಡಿ, ನಿಮ್ಮೊಳಗೆ ಹರಿಯಲಿ.",
+      "transliteration": "gāḷiya anubhava māḍi, nim'moḷage hariyali",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-11T00:30:56.810614"
+    },
+    {
+      "english": "Notice your thoughts, then smile.",
+      "kannada": "ನಿಮ್ಮ ಚಿಂತನೆಗಳನ್ನು ಗಮನಿಸಿ, ಬಳಿಕ ನಕ್ಕಿರಿ.",
+      "transliteration": "nim'ma cintane-gaḷannu gamanisi, baḷik nakkiri",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-11T00:30:56.810615"
     }
   ],
-  "last_updated": "2026-11-10T22:13:46.964365"
+  "last_updated": "2026-11-11T00:30:56.810617"
 }
