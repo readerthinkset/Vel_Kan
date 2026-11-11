@@ -5109,7 +5109,42 @@
       "transliteration": "nInu ninna vEga kAyduko, bEga bEda.",
       "category": "Patience",
       "generated_at": "2026-11-11T04:57:14.286010"
+    },
+    {
+      "english": "What time is it now, please?",
+      "kannada": "ಈಗ ಎಷ್ಟು ಗಂಟೆ ಆಯ್ತು, ದಯವಿಟ್ಟು?",
+      "transliteration": "Iga eṣṭu gaṇṭe āytu, dayaviṭṭu?",
+      "category": "Time",
+      "generated_at": "2026-11-11T19:20:53.583347"
+    },
+    {
+      "english": "I’m running late, I’m sorry.",
+      "kannada": "ನಾನು ತಡವಾಗುತ್ತಿದ್ದೇನೆ, ಕ್ಷಮಿಸಿ.",
+      "transliteration": "Nānu taḍavāguttiddene, kṣamisi.",
+      "category": "Time",
+      "generated_at": "2026-11-11T19:20:53.583360"
+    },
+    {
+      "english": "Let’s meet at seven o’clock.",
+      "kannada": "ಏಳು ಗಂಟೆಗೆ ನಾವು ಭೇಟಿಯಾಗೋಣ.",
+      "transliteration": "Eḷu gaṇṭege nāvu beṭṭāgōṇa.",
+      "category": "Time",
+      "generated_at": "2026-11-11T19:20:53.583362"
+    },
+    {
+      "english": "We still have time, don’t worry.",
+      "kannada": "ಇನ್ನೂ ಸಮಯ ಇದೆ, ಚಿಂತಿಸಬೇಡ.",
+      "transliteration": "Innoo samaya ide, ciṇtisabēḍa.",
+      "category": "Time",
+      "generated_at": "2026-11-11T19:20:53.583363"
+    },
+    {
+      "english": "It’s already past six o’clock.",
+      "kannada": "ಆರು ಗಂಟೆ ಮೀರಿದೆ.",
+      "transliteration": "Āru gaṇṭe mīride.",
+      "category": "Time",
+      "generated_at": "2026-11-11T19:20:53.583363"
     }
   ],
-  "last_updated": "2026-11-11T04:57:14.286011"
+  "last_updated": "2026-11-11T19:20:53.583365"
 }
