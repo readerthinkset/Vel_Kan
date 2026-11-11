@@ -5144,7 +5144,42 @@
       "transliteration": "Āru gaṇṭe mīride.",
       "category": "Time",
       "generated_at": "2026-11-11T19:20:53.583363"
+    },
+    {
+      "english": "Hi, where is the nearest bus stop?",
+      "kannada": "ಹಾಯ್, ಹತ್ತಿರದ ಬಸ್ ಸ್ಟಾಪ್ ಎಲ್ಲಿ?",
+      "transliteration": "Hai, hattirada bus stop elli?",
+      "category": "Travel",
+      "generated_at": "2026-11-11T21:13:42.690467"
+    },
+    {
+      "english": "Please, can you help me find this?",
+      "kannada": "ದಯವಿಟ್ಟು, ಇದನ್ನು ಹುಡುಕಲು ಸಹಾಯ ಮಾಡುತ್ತೀರಾ?",
+      "transliteration": "Dayavittu, idannu hudukalu sahaya maaduttiraa?",
+      "category": "Travel",
+      "generated_at": "2026-11-11T21:13:42.690478"
+    },
+    {
+      "english": "How much is this ticket, please?",
+      "kannada": "ದಯವಿಟ್ಟು, ಇದರ ಟಿಕೆಟ್ ಎಷ್ಟು?",
+      "transliteration": "Dayavittu, idara ticket eshtu?",
+      "category": "Travel",
+      "generated_at": "2026-11-11T21:13:42.690479"
+    },
+    {
+      "english": "Which platform does this train arrive?",
+      "kannada": "ಈ ರೈಲು ಯಾವ ಪ್ಲಾಟ್‌ಫಾರ್ಮ್‌ಗೆ ಬರುತ್ತದೆ?",
+      "transliteration": "Ee railu yaava platform-ge baruttade?",
+      "category": "Travel",
+      "generated_at": "2026-11-11T21:13:42.690480"
+    },
+    {
+      "english": "Is there a cheaper option nearby?",
+      "kannada": "ಇಲ್ಲಿ ಹತ್ತಿರವೇ ಕಡಿಮೆ ದರದ ಆಯ್ಕೆ ಇದೆಯಾ?",
+      "transliteration": "Illi hattirave kadīme darada aayke ideyaa?",
+      "category": "Travel",
+      "generated_at": "2026-11-11T21:13:42.690481"
     }
   ],
-  "last_updated": "2026-11-11T19:20:53.583365"
+  "last_updated": "2026-11-11T21:13:42.690483"
 }
