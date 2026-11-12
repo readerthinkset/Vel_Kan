@@ -5319,7 +5319,42 @@
       "transliteration": "Nanage idu beku, turtāgi.",
       "category": "Common Expressions",
       "generated_at": "2026-11-12T19:38:57.168710"
+    },
+    {
+      "english": "Help, please. I need assistance now.",
+      "kannada": "ಸಹಾಯ ಮಾಡಿ, ದಯವಿಟ್ಟು. ನನಗೆ ಈಗ ಸಹಾಯ ಬೇಕು.",
+      "transliteration": "sahaya maadi, dayavittu. nanage eega sahaya beku",
+      "category": "Emergency",
+      "generated_at": "2026-11-12T21:24:57.438110"
+    },
+    {
+      "english": "Call an ambulance, please, right now.",
+      "kannada": "ದಯವಿಟ್ಟು ತಕ್ಷಣ ಅಂಬುಲೆನ್ಸ್ ಕರೆ ಮಾಡಿ.",
+      "transliteration": "dayavittu takshana ambulance kare maadi",
+      "category": "Emergency",
+      "generated_at": "2026-11-12T21:24:57.438122"
+    },
+    {
+      "english": "Are you hurt? Call help immediately.",
+      "kannada": "ನೀವು ಗಾಯಗೊಂಡಿದ್ದೀರಾ? ತಕ್ಷಣ ಸಹಾಯ ಕರೆ ಮಾಡಿ.",
+      "transliteration": "neevu gayagondiddiraa? takshana sahaya kare maadi",
+      "category": "Emergency",
+      "generated_at": "2026-11-12T21:24:57.438124"
+    },
+    {
+      "english": "Stop, please. I think it's dangerous.",
+      "kannada": "ನಿಲ್ಲಿಸಿ, ದಯವಿಟ್ಟು. ಇದು ಅಪಾಯವೆಂದು ನನ್ನಿಗೆ ತೋರುತ್ತದೆ.",
+      "transliteration": "nillisi, dayavittu. idu apayavendu nanage tooruttade",
+      "category": "Emergency",
+      "generated_at": "2026-11-12T21:24:57.438126"
+    },
+    {
+      "english": "Fire! Get out of here now.",
+      "kannada": "ಬೆಂಕಿ! ಇಲ್ಲಿ ಇಂದ ತಕ್ಷಣ ಹೊರಬನ್ನಿ.",
+      "transliteration": "benki! illi inda takshana horabanni",
+      "category": "Emergency",
+      "generated_at": "2026-11-12T21:24:57.438127"
     }
   ],
-  "last_updated": "2026-11-12T19:38:57.168712"
+  "last_updated": "2026-11-12T21:24:57.438129"
 }
