@@ -5214,7 +5214,42 @@
       "transliteration": "dayavittu, namage bill kodi.",
       "category": "Restaurant",
       "generated_at": "2026-11-11T23:23:35.872039"
+    },
+    {
+      "english": "Try again, you’ve got this.",
+      "kannada": "ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ, ನಿಮಗೆ ಇದು ಸಾಧ್ಯ.",
+      "transliteration": "Matte prayatnisi, nimage idu sadhya.",
+      "category": "Strength",
+      "generated_at": "2026-11-12T01:53:04.071777"
+    },
+    {
+      "english": "Keep your promise, even today.",
+      "kannada": "ನಿಮ್ಮ ಮಾತನ್ನು ಇಂದಿಗೂ ಕಾಯ್ದುಕೊಳ್ಳಿ.",
+      "transliteration": "Nimma maatannu indigu kaaydukolli.",
+      "category": "Strength",
+      "generated_at": "2026-11-12T01:53:04.071790"
+    },
+    {
+      "english": "Speak up, your voice matters.",
+      "kannada": "ಧೈರ್ಯವಾಗಿ ಹೇಳಿ, ನಿಮ್ಮ ಧ್ವನಿ ಮುಖ್ಯ.",
+      "transliteration": "Dhairyavagi heḷḷi, nimma dhvani mukhya.",
+      "category": "Strength",
+      "generated_at": "2026-11-12T01:53:04.071792"
+    },
+    {
+      "english": "Take one step, then another.",
+      "kannada": "ಒಂದು ಹೆಜ್ಜೆ ಇಡಿ, ಮತ್ತೆ ಒಂದು.",
+      "transliteration": "Ondu hejjе iḍi, matte ondu.",
+      "category": "Strength",
+      "generated_at": "2026-11-12T01:53:04.071792"
+    },
+    {
+      "english": "Let fear pass, act anyway.",
+      "kannada": "ಭಯ ಹೋಗಲಿ, ಆದರೂ ನಡೆದುಬಿಡಿ.",
+      "transliteration": "Bhaya hogali, adaru nadevubidi.",
+      "category": "Strength",
+      "generated_at": "2026-11-12T01:53:04.071793"
     }
   ],
-  "last_updated": "2026-11-11T23:23:35.872042"
+  "last_updated": "2026-11-12T01:53:04.071795"
 }
