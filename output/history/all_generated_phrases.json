@@ -5284,7 +5284,42 @@
       "transliteration": "Ninna mēle nānu nambike iṭṭukoḷḷabahudu, snēhit.",
       "category": "Friendship",
       "generated_at": "2026-11-12T05:59:19.266036"
+    },
+    {
+      "english": "Yes, I understand what you mean.",
+      "kannada": "ಹೌದು, ನೀವು ಹೇಳಿದ್ದು ನನಗೆ ಅರ್ಥವಾಯಿತು.",
+      "transliteration": "Haūdu, neevu heḷiddu nanage arthavaayitu.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-12T19:38:57.168695"
+    },
+    {
+      "english": "No, I don’t want that.",
+      "kannada": "ಇಲ್ಲ, ನನಗೆ ಅದು ಬೇಕಾಗಿಲ್ಲ.",
+      "transliteration": "Illa, nanage adu beekaagilla.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-12T19:38:57.168706"
+    },
+    {
+      "english": "Wait a moment, please.",
+      "kannada": "ಸ್ವಲ್ಪ ತಾಳಿರಿ, ದಯವಿಟ್ಟು.",
+      "transliteration": "Svarpa thaaḷiri, dayaviṭṭu.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-12T19:38:57.168707"
+    },
+    {
+      "english": "Come here, please.",
+      "kannada": "ಇಲ್ಲಿ ಬನ್ನಿ, ದಯವಿಟ್ಟು.",
+      "transliteration": "Illi banni, dayaviṭṭu.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-12T19:38:57.168709"
+    },
+    {
+      "english": "I need this, urgently.",
+      "kannada": "ನನಗೆ ಇದು ಬೇಕು, ತುರ್ತಾಗಿ.",
+      "transliteration": "Nanage idu beku, turtāgi.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-12T19:38:57.168710"
     }
   ],
-  "last_updated": "2026-11-12T05:59:19.266038"
+  "last_updated": "2026-11-12T19:38:57.168712"
 }
