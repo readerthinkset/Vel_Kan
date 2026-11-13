@@ -5529,7 +5529,42 @@
       "transliteration": "bhayavannu yojanege tirugisi",
       "category": "Courage",
       "generated_at": "2026-11-13T20:52:00.279843"
+    },
+    {
+      "english": "I want to greet people warmly.",
+      "kannada": "ನಾನು ಜನರನ್ನು ಹೃತ್ಪೂರ್ವಕವಾಗಿ ಸ್ವಾಗತಿಸಲು ಬಯಸುತ್ತೇನೆ.",
+      "transliteration": "Naanu janarannu hṛutpoorvakavāgi svāgatisaalu bayasuttene.",
+      "category": "Purpose",
+      "generated_at": "2026-11-13T22:26:57.501797"
+    },
+    {
+      "english": "I choose kindness, even in conversations.",
+      "kannada": "ಸಂಭಾಷಣೆಯಲ್ಲೂ ಸಹ ನಾನು ದಯೆಯನ್ನು ಆಯ್ಕೆಮಾಡುತ್ತೇನೆ.",
+      "transliteration": "Sambhāṣaṇeyallū sahā nānu dayeyannu āyke māḍuttēne.",
+      "category": "Purpose",
+      "generated_at": "2026-11-13T22:26:57.501837"
+    },
+    {
+      "english": "I speak slowly, so I’m understood.",
+      "kannada": "ನಾನು ನಿಧಾನವಾಗಿ ಮಾತನಾಡುತ್ತೇನೆ, ಅರ್ಥವಾಗಲು.",
+      "transliteration": "Naanu nidhānavaagi mātāḍuttēne, arthavāgಲು.",
+      "category": "Purpose",
+      "generated_at": "2026-11-13T22:26:57.501842"
+    },
+    {
+      "english": "I thank you often, with sincerity.",
+      "kannada": "ನಾನು ನಿಜವಾದ ಮನಸ್ಸಿನಿಂದ ಹೆಚ್ಚಾಗಿ ಧನ್ಯವಾದ ಹೇಳುತ್ತೇನೆ.",
+      "transliteration": "Naanu nijavāda manassindinda hecchāgi dhanyavāda hēḷuttēne.",
+      "category": "Purpose",
+      "generated_at": "2026-11-13T22:26:57.501844"
+    },
+    {
+      "english": "I ask for help, without hesitation.",
+      "kannada": "ನಾನು ಹಿಂಜರಿಯದೆ ಸಹಾಯ ಕೇಳುತ್ತೇನೆ.",
+      "transliteration": "Naanu hinjariyade sahāya kēḷuttēne.",
+      "category": "Purpose",
+      "generated_at": "2026-11-13T22:26:57.501846"
     }
   ],
-  "last_updated": "2026-11-13T20:52:00.279845"
+  "last_updated": "2026-11-13T22:26:57.501848"
 }
