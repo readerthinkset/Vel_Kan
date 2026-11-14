@@ -5739,7 +5739,42 @@
       "transliteration": "ಯಾವಾಗಲೂ ನಿಯಂತ್ರಣಕ್ಕಿಂತ ಶಾಂತಿ ಆಯ್ಕೆಮಾಡಿ.",
       "category": "Wisdom",
       "generated_at": "2026-11-14T21:12:48.874874"
+    },
+    {
+      "english": "Where is the supermarket, please?",
+      "kannada": "ದಯವಿಟ್ಟು ಸೂಪರ್ ಮಾರ್ಕೆಟ್ ಎಲ್ಲಿದೆ?",
+      "transliteration": "Dayavittu super market ellide?",
+      "category": "Shopping",
+      "generated_at": "2026-11-14T23:46:20.924104"
+    },
+    {
+      "english": "Do you have this in stock?",
+      "kannada": "ಇದು ಸ್ಟಾಕ್‌ನಲ್ಲಿ ಇದೆಯೇ?",
+      "transliteration": "Idu stock-nalli ideya?",
+      "category": "Shopping",
+      "generated_at": "2026-11-14T23:46:20.924115"
+    },
+    {
+      "english": "Can I try this on?",
+      "kannada": "ನಾನು ಇದು ಟ್ರೈ ಮಾಡಬಹುದಾ?",
+      "transliteration": "Naanu idu try maadabahuda?",
+      "category": "Shopping",
+      "generated_at": "2026-11-14T23:46:20.924117"
+    },
+    {
+      "english": "Is there a cheaper option?",
+      "kannada": "ಇದಕ್ಕಿಂತ ಕಡಿಮೆ ಬೆಲೆ ಇದೆಯಾ?",
+      "transliteration": "Idakkinta kaDime bele ideya?",
+      "category": "Shopping",
+      "generated_at": "2026-11-14T23:46:20.924118"
+    },
+    {
+      "english": "I like this one, please.",
+      "kannada": "ಇದು ನನಗೆ ಇಷ್ಟವಾಗಿದೆ, ದಯವಿಟ್ಟು.",
+      "transliteration": "Idu nanage ishtaavagide, dayavittu.",
+      "category": "Shopping",
+      "generated_at": "2026-11-14T23:46:20.924119"
     }
   ],
-  "last_updated": "2026-11-14T21:12:48.874876"
+  "last_updated": "2026-11-14T23:46:20.924121"
 }
