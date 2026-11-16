@@ -5984,7 +5984,42 @@
       "transliteration": "Namaskaara, indu neenu chennagiddiyaa?",
       "category": "Greetings",
       "generated_at": "2026-11-16T05:02:58.670196"
+    },
+    {
+      "english": "I didn't mean to hurt you, sorry.",
+      "kannada": "ನಾನು ನಿಮಗೆ ನೋವು ಕೊಡಲಿಲ್ಲ, ಕ್ಷಮಿಸಿ.",
+      "transliteration": "Naánu nimege novu kodalilla, kshamisi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-16T21:44:07.032498"
+    },
+    {
+      "english": "Please forgive me, I truly regret it.",
+      "kannada": "ದಯವಿಟ್ಟು ನನ್ನನ್ನು ಕ್ಷಮಿಸಿ, ನನಗೆ ತುಂಬಾ ವಿಷಾದ.",
+      "transliteration": "Dayavittu nannannu kshamisi, nanage tumbaa vishaada.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-16T21:44:07.032514"
+    },
+    {
+      "english": "I was wrong, please give me grace.",
+      "kannada": "ನಾನು ತಪ್ಪು ಮಾಡಿದೆ, ದಯವಿಟ್ಟು ಕೃಪೆ ನೀಡಿ.",
+      "transliteration": "Naanu tappu maadide, dayavittu kr̥pe nīdi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-16T21:44:07.032516"
+    },
+    {
+      "english": "You matter to me, forgive me.",
+      "kannada": "ನೀವು ನನಗೆ ಮುಖ್ಯ, ನನ್ನನ್ನು ಕ್ಷಮಿಸಿ.",
+      "transliteration": "Nīvu nanage mukhya, nannannu kshamisi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-16T21:44:07.032518"
+    },
+    {
+      "english": "Let me make it right, please.",
+      "kannada": "ನಾನು ಸರಿಪಡಿಸುತ್ತೇನೆ, ದಯವಿಟ್ಟು.",
+      "transliteration": "Naanu saripadisuttene, dayavittu.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-16T21:44:07.032519"
     }
   ],
-  "last_updated": "2026-11-16T05:02:58.670199"
+  "last_updated": "2026-11-16T21:44:07.032521"
 }
