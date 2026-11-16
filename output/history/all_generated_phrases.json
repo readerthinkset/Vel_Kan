@@ -6019,7 +6019,42 @@
       "transliteration": "Naanu saripadisuttene, dayavittu.",
       "category": "Forgiveness",
       "generated_at": "2026-11-16T21:44:07.032519"
+    },
+    {
+      "english": "Mother, please call me back.",
+      "kannada": "ಅಮ್ಮಾ, ದಯವಿಟ್ಟು ಮತ್ತೆ ಕರೆ ಮಾಡಿ.",
+      "transliteration": "ammaa, dayavittu matte kare maadi",
+      "category": "Family Terms",
+      "generated_at": "2026-11-16T23:18:46.077765"
+    },
+    {
+      "english": "Dad, I need your help.",
+      "kannada": "ಅಪ್ಪಾ, ನನಗೆ ನಿನ್ನ ಸಹಾಯ ಬೇಕು.",
+      "transliteration": "appaa, nanage ninna sahaaya beku",
+      "category": "Family Terms",
+      "generated_at": "2026-11-16T23:18:46.077777"
+    },
+    {
+      "english": "Sister, thank you for everything.",
+      "kannada": "ತಂಗಿ, ಎಲ್ಲಕ್ಕೂ ಧನ್ಯವಾದಗಳು.",
+      "transliteration": "tangi, ellakkoo dhanyavaadagalu",
+      "category": "Family Terms",
+      "generated_at": "2026-11-16T23:18:46.077779"
+    },
+    {
+      "english": "Brother, come sit with us.",
+      "kannada": "ಅಣ್ಣ, ನಮ್ಮ ಜೊತೆ ಬಂದು ಕುಳಿತು.",
+      "transliteration": "anna, namma jote bandu kuliitu",
+      "category": "Family Terms",
+      "generated_at": "2026-11-16T23:18:46.077780"
+    },
+    {
+      "english": "Grandma, are you feeling okay?",
+      "kannada": "ಅಜ್ಜಿ, ನೀನು ಚೆನ್ನಾಗಿದ್ದೀಯಾ?",
+      "transliteration": "ajjii, ninu chennagiddiiyaa",
+      "category": "Family Terms",
+      "generated_at": "2026-11-16T23:18:46.077782"
     }
   ],
-  "last_updated": "2026-11-16T21:44:07.032521"
+  "last_updated": "2026-11-16T23:18:46.077784"
 }
