@@ -5949,7 +5949,42 @@
       "transliteration": "hosa padagaḷannu prayatnisī, vākyagaḷalli baḷasi.",
       "category": "Growth",
       "generated_at": "2026-11-15T23:52:38.317691"
+    },
+    {
+      "english": "Hi! How’s everything with you today?",
+      "kannada": "ಹಾಯ್! ಇಂದೆಲ್ಲ ನಿನ್ನದಾಗೆ ಹೇಗಿದೆ?",
+      "transliteration": "Haay! Indealla ninnadaage hegidde?",
+      "category": "Greetings",
+      "generated_at": "2026-11-16T05:02:58.670174"
+    },
+    {
+      "english": "Good morning, hope you feel great.",
+      "kannada": "ಶುಭೋದಯ, ನೀನು ಚೆನ್ನಾಗಿದ್ದೀಯೆಂದು ಭಾವಿಸುತ್ತೇನೆ.",
+      "transliteration": "Shubhodaya, neenu chennagiddiyendu bhaavisuttene.",
+      "category": "Greetings",
+      "generated_at": "2026-11-16T05:02:58.670189"
+    },
+    {
+      "english": "Good afternoon, welcome to our place.",
+      "kannada": "ಶುಭ ಮಧ್ಯಾಹ್ನ, ನಮ್ಮ ಮನೆಗೆ ಸ್ವಾಗತ.",
+      "transliteration": "Shubha madhyahna, namma manege svaagata.",
+      "category": "Greetings",
+      "generated_at": "2026-11-16T05:02:58.670192"
+    },
+    {
+      "english": "Hey, hope your day is going smoothly.",
+      "kannada": "ಹೇ, ನಿನ್ನ ದಿನ ಸುಗಮವಾಗಿ ಸಾಗುತ್ತಿದೆಯಾ?",
+      "transliteration": "Hey, ninna dina sugama-vaagi saagutti-diyeyaa?",
+      "category": "Greetings",
+      "generated_at": "2026-11-16T05:02:58.670194"
+    },
+    {
+      "english": "Hello, are you doing alright today?",
+      "kannada": "ನಮಸ್ಕಾರ, ಇಂದು ನೀನು ಚೆನ್ನಾಗಿದ್ದೀಯಾ?",
+      "transliteration": "Namaskaara, indu neenu chennagiddiyaa?",
+      "category": "Greetings",
+      "generated_at": "2026-11-16T05:02:58.670196"
     }
   ],
-  "last_updated": "2026-11-15T23:52:38.317694"
+  "last_updated": "2026-11-16T05:02:58.670199"
 }
