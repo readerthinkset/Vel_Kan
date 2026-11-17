@@ -6194,7 +6194,42 @@
       "transliteration": "Dukaan yāva samayakke tereyuttade?",
       "category": "Time",
       "generated_at": "2026-11-17T20:33:58.861098"
+    },
+    {
+      "english": "Thanks for helping me today, really.",
+      "kannada": "ಇಂದು ನನ್ನಿಗೆ ಸಹಾಯ ಮಾಡಿದಕ್ಕೆ ಧನ್ಯವಾದಗಳು, ನಿಜವಾಗಿ.",
+      "transliteration": "indu nanage sahaya madida ke dhanyavādagaḷu, nijavāgi",
+      "category": "Gratitude",
+      "generated_at": "2026-11-17T22:11:30.118373"
+    },
+    {
+      "english": "I’m thankful for your quick help.",
+      "kannada": "ನಿಮ್ಮ ತಕ್ಷಣದ ಸಹಾಯಕ್ಕಾಗಿ ನಾನು ಕೃತಜ್ಞ.",
+      "transliteration": "nimma takṣaṇada sahāyakāgi nānu kṛtajña",
+      "category": "Gratitude",
+      "generated_at": "2026-11-17T22:11:30.118384"
+    },
+    {
+      "english": "Thanks, I needed that support.",
+      "kannada": "ಧನ್ಯವಾದಗಳು, ನನಗೆ ಆ ಬೆಂಬಲ ಬೇಕಿತ್ತು.",
+      "transliteration": "dhanyavādagaḷu, nanage ā pembala bēkittu",
+      "category": "Gratitude",
+      "generated_at": "2026-11-17T22:11:30.118386"
+    },
+    {
+      "english": "You made things easier for me.",
+      "kannada": "ನೀವು ನನಗೆ ಎಲ್ಲವೂ ಸುಲಭವಾಯಿತು.",
+      "transliteration": "nīvu nanage ellavū sulabhavāyitu",
+      "category": "Gratitude",
+      "generated_at": "2026-11-17T22:11:30.118387"
+    },
+    {
+      "english": "I’m grateful for your kind words.",
+      "kannada": "ನಿಮ್ಮ ಒಳ್ಳೆಯ ಮಾತುಗಳಿಗೆ ನಾನು ಕೃತಜ್ಞ.",
+      "transliteration": "nimma oḷḷeya mātugaḷige nānu kṛtajña",
+      "category": "Gratitude",
+      "generated_at": "2026-11-17T22:11:30.118390"
     }
   ],
-  "last_updated": "2026-11-17T20:33:58.861100"
+  "last_updated": "2026-11-17T22:11:30.118392"
 }
