@@ -6159,7 +6159,42 @@
       "transliteration": "usirannu gamanisi, balapaḍisad(e)",
       "category": "Mindfulness",
       "generated_at": "2026-11-17T06:51:16.691497"
+    },
+    {
+      "english": "Could you tell me the time, please?",
+      "kannada": "ದಯವಿಟ್ಟು, ಸಮಯ ಎಷ್ಟು ಆಯಿತು?",
+      "transliteration": "Dayavittu, samaya estu aayitu?",
+      "category": "Time",
+      "generated_at": "2026-11-17T20:33:58.861081"
+    },
+    {
+      "english": "Is it early or late right now?",
+      "kannada": "ಈಗ ಸಮಯ ಬೇಗೋ, ತಡವೋ?",
+      "transliteration": "Iga samaya bego, tədavo?",
+      "category": "Time",
+      "generated_at": "2026-11-17T20:33:58.861093"
+    },
+    {
+      "english": "The bus leaves at six thirty.",
+      "kannada": "ಬಸ್ಸು ಆರು ಮೂವತ್ತುಕ್ಕೆ ಹೊರಡುತ್ತದೆ.",
+      "transliteration": "Bussu aaru mūvattukke horaduttade.",
+      "category": "Time",
+      "generated_at": "2026-11-17T20:33:58.861095"
+    },
+    {
+      "english": "My watch is slow, I think.",
+      "kannada": "ನನ್ನ ಗಡಿಯಾರ ನಿಧಾನವಾಗಿ ಹೋಗುತ್ತಿದೆ.",
+      "transliteration": "Nanna gadiyāra nidānawāgi hoguttide.",
+      "category": "Time",
+      "generated_at": "2026-11-17T20:33:58.861096"
+    },
+    {
+      "english": "What time does the shop open?",
+      "kannada": "ದುಕಾಣ ಯಾವ ಸಮಯಕ್ಕೆ ತೆರೆಯುತ್ತದೆ?",
+      "transliteration": "Dukaan yāva samayakke tereyuttade?",
+      "category": "Time",
+      "generated_at": "2026-11-17T20:33:58.861098"
     }
   ],
-  "last_updated": "2026-11-17T06:51:16.691499"
+  "last_updated": "2026-11-17T20:33:58.861100"
 }
