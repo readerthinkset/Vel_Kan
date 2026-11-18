@@ -6264,7 +6264,42 @@
       "transliteration": "dhairya irisi, pragatige samaya beku",
       "category": "Patience",
       "generated_at": "2026-11-17T23:48:27.554721"
+    },
+    {
+      "english": "Can I get seven glasses, please?",
+      "kannada": "ದಯವಿಟ್ಟು ಏಳು ಗ್ಲಾಸ್ ಕೊಡ್ತೀರಾ?",
+      "transliteration": "Dhayavittu ēḷu glass koḍtīrā?",
+      "category": "Numbers",
+      "generated_at": "2026-11-18T02:16:01.180868"
+    },
+    {
+      "english": "I’d like eight oranges, please.",
+      "kannada": "ದಯವಿಟ್ಟು ಎಂಟು ಕಿತ್ತಳೆ ಬೇಕು.",
+      "transliteration": "Dhayavittu eṇṭu kittalē bēku.",
+      "category": "Numbers",
+      "generated_at": "2026-11-18T02:16:01.180881"
+    },
+    {
+      "english": "Please bring nine water bottles.",
+      "kannada": "ದಯವಿಟ್ಟು ಒಂಬತ್ತು ನೀರಿನ ಬಾಟಲ್ ತಂದುಕೊಡಿ.",
+      "transliteration": "Dhayavittu ombattu nīrina baṭṭal tandukoḍi.",
+      "category": "Numbers",
+      "generated_at": "2026-11-18T02:16:01.180884"
+    },
+    {
+      "english": "Give me ten rupees for now.",
+      "kannada": "ಈಗ ಹತ್ತು ರೂಪಾಯಿ ಕೊಡಿ.",
+      "transliteration": "Īga hatthu rūpāyi koḍi.",
+      "category": "Numbers",
+      "generated_at": "2026-11-18T02:16:01.180885"
+    },
+    {
+      "english": "We need eleven chairs for guests.",
+      "kannada": "ಅತಿಥಿಗಳಿಗೆ ಹನ್ನೊಂದು ಕುರ್ಚಿಗಳು ಬೇಕು.",
+      "transliteration": "Athiṭhigaḷige hannondu kurchigaḷu bēku.",
+      "category": "Numbers",
+      "generated_at": "2026-11-18T02:16:01.180887"
     }
   ],
-  "last_updated": "2026-11-17T23:48:27.554723"
+  "last_updated": "2026-11-18T02:16:01.180889"
 }
