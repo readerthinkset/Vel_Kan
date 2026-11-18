@@ -6369,7 +6369,42 @@
       "transliteration": "Saṁdēhakke illa, prayatna ayke māḍi.",
       "category": "Strength",
       "generated_at": "2026-11-18T20:05:49.203419"
+    },
+    {
+      "english": "Bend knees, keep your focus.",
+      "kannada": "ಮೊಣಕಾಲು ವಾಗಿ, ನಿಮ್ಮ ಗಮನ ಇರಲಿ.",
+      "transliteration": "Moṇakal u vagi, nimma gamana irali.",
+      "category": "Balance",
+      "generated_at": "2026-11-18T21:50:53.605596"
+    },
+    {
+      "english": "Exhale slowly, feel the ground.",
+      "kannada": "ಸಾವಕಾಶವಾಗಿ ಉಸಿರು ಬಿಡಿ, ನೆಲವನ್ನು ಭಾವಿಸಿ.",
+      "transliteration": "Saavakaasha vāgi usiru bidi, nelavannu bhaavisi.",
+      "category": "Balance",
+      "generated_at": "2026-11-18T21:50:53.605608"
+    },
+    {
+      "english": "Feel steady, even while moving.",
+      "kannada": "ಚಲಿಸಿದರೂ ಸ್ಥಿರವಾಗಿರಿ, ಮನಸಾರೆ.",
+      "transliteration": "Calisidaru sThiravaagiri, manasāre.",
+      "category": "Balance",
+      "generated_at": "2026-11-18T21:50:53.605610"
+    },
+    {
+      "english": "Plant your feet, then relax.",
+      "kannada": "ಕಾಲು ನೆಟ್ಟು, ನಂತರ ಸಡಿಲಗೊಳ್ಳಿ.",
+      "transliteration": "Kālu neṭṭu, naṁtara saḍilagoḷḷi.",
+      "category": "Balance",
+      "generated_at": "2026-11-18T21:50:53.605611"
+    },
+    {
+      "english": "Look ahead, stay light on.",
+      "kannada": "ಮುಂದೆ ನೋಡಿ, ಹೆಜ್ಜೆ ಹಗುರವಾಗಿರಲಿ.",
+      "transliteration": "Munde nōḍi, hejj e haguravaagirali.",
+      "category": "Balance",
+      "generated_at": "2026-11-18T21:50:53.605612"
     }
   ],
-  "last_updated": "2026-11-18T20:05:49.203420"
+  "last_updated": "2026-11-18T21:50:53.605614"
 }
