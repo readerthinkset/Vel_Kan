@@ -6544,7 +6544,42 @@
       "transliteration": "Haṭtira iralu, nānu chennāg iruttēne.",
       "category": "Love",
       "generated_at": "2026-11-19T20:05:10.815100"
+    },
+    {
+      "english": "Quickly, is there a doctor nearby?",
+      "kannada": "ತಕ್ಷಣ, ಹತ್ತಿರದಲ್ಲಿ ವೈದ್ಯರೇ ಇದ್ದಾರಾ?",
+      "transliteration": "Təkkən, hattiradalli vaidyare iddaraa?",
+      "category": "Emergency",
+      "generated_at": "2026-11-19T22:06:03.309209"
+    },
+    {
+      "english": "Call the hospital, please, now.",
+      "kannada": "ದಯವಿಟ್ಟು ಈಗ ಆಸ್ಪತ್ರೆಯನ್ನು ಕರೆ ಮಾಡಿ.",
+      "transliteration": "Dayavittu iga aspattēyannu kare māḍi.",
+      "category": "Emergency",
+      "generated_at": "2026-11-19T22:06:03.309221"
+    },
+    {
+      "english": "I fell, please help me here.",
+      "kannada": "ನಾನು ಬಿದ್ದೆ, ದಯವಿಟ್ಟು ಇಲ್ಲಿ ಸಹಾಯ ಮಾಡಿ.",
+      "transliteration": "Nānu biddē, dayavittu illi sahāya māḍi.",
+      "category": "Emergency",
+      "generated_at": "2026-11-19T22:06:03.309223"
+    },
+    {
+      "english": "My chest hurts, please come fast.",
+      "kannada": "ನನ್ನ ಎದೆ ನೋವು ಬರುತ್ತಿದೆ, ಬೇಗ ಬನ್ನಿ.",
+      "transliteration": "Nanna ede nōvu baruttide, bēga bann̄i.",
+      "category": "Emergency",
+      "generated_at": "2026-11-19T22:06:03.309224"
+    },
+    {
+      "english": "Someone is unconscious, call emergency.",
+      "kannada": "ಯಾರೋ ಅಚೇತನ, ತುರ್ತು ಕರೆ ಮಾಡಿ.",
+      "transliteration": "Yāro acēthana, turttu kare māḍi.",
+      "category": "Emergency",
+      "generated_at": "2026-11-19T22:06:03.309225"
     }
   ],
-  "last_updated": "2026-11-19T20:05:10.815102"
+  "last_updated": "2026-11-19T22:06:03.309227"
 }
