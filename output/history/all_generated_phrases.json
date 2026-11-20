@@ -6614,7 +6614,42 @@
       "transliteration": "Cikka jaya-gaḷannu ācarisu, hemme paḍu.",
       "category": "Happiness",
       "generated_at": "2026-11-19T23:28:00.254811"
+    },
+    {
+      "english": "Good morning, where is the station?",
+      "kannada": "ಶುಭೋದಯ, ನಿಲ್ದಾಣ ಎಲ್ಲಿದೆ?",
+      "transliteration": "shubhodaya, nildāṇa ellide?",
+      "category": "Travel",
+      "generated_at": "2026-11-20T01:43:40.313820"
+    },
+    {
+      "english": "I need a ticket to Mysuru, please.",
+      "kannada": "ನನಗೆ ಮೈಸೂರುಗೆ ಟಿಕೆಟ್ ಬೇಕು, ದಯವಿಟ್ಟು.",
+      "transliteration": "nanage maysūrige ṭikettu bēku, dayavittu.",
+      "category": "Travel",
+      "generated_at": "2026-11-20T01:43:40.313832"
+    },
+    {
+      "english": "Can I pay by card here?",
+      "kannada": "ಇಲ್ಲಿ ಕಾರ್ಡ್ ಮೂಲಕ ಪಾವತಿಸಬಹುದೇ?",
+      "transliteration": "illi kārḍ mūlaka pāvatisabahudē?",
+      "category": "Travel",
+      "generated_at": "2026-11-20T01:43:40.313834"
+    },
+    {
+      "english": "Is this the right road to downtown?",
+      "kannada": "ಇದು ನಗರಕೇಂದ್ರಕ್ಕೆ ಸರಿಯಾದ ದಾರಿಯೇ?",
+      "transliteration": "idu nagarakendrakke sariyāda dāriyē?",
+      "category": "Travel",
+      "generated_at": "2026-11-20T01:43:40.313836"
+    },
+    {
+      "english": "Where can I get drinking water?",
+      "kannada": "ನನಗೆ ಕುಡಿಯುವ ನೀರು ಎಲ್ಲ ಸಿಗುತ್ತದೆ?",
+      "transliteration": "nanage kuḍiyuva nīru ella siguttade?",
+      "category": "Travel",
+      "generated_at": "2026-11-20T01:43:40.313837"
     }
   ],
-  "last_updated": "2026-11-19T23:28:00.254812"
+  "last_updated": "2026-11-20T01:43:40.313840"
 }
