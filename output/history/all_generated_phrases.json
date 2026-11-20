@@ -6649,7 +6649,42 @@
       "transliteration": "nanage kuḍiyuva nīru ella siguttade?",
       "category": "Travel",
       "generated_at": "2026-11-20T01:43:40.313837"
+    },
+    {
+      "english": "I’m hungry, can I order now?",
+      "kannada": "ನನಗೆ ಹಸಿವು, ಈಗ ಆರ್ಡರ್ ಮಾಡಬಹುದಾ?",
+      "transliteration": "Nanage hasivu, īga order maadabahuda?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-20T05:57:44.237989"
+    },
+    {
+      "english": "What’s popular here today, please?",
+      "kannada": "ಇಂದು ಇಲ್ಲಿ ಯಾವುದು ಜನಪ್ರಿಯ?",
+      "transliteration": "Indu illi yavu du janapriya?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-20T05:57:44.238011"
+    },
+    {
+      "english": "Do you have vegetarian options?",
+      "kannada": "ನಿಮ್ಮಲ್ಲಿ ಸಸ್ಯಾಹಾರಿ ಆಯ್ಕೆ ಇದೆಯಾ?",
+      "transliteration": "Nimmalli saಸ್ಯaahaari aayke ideyaa?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-20T05:57:44.238012"
+    },
+    {
+      "english": "Is the idli fresh this morning?",
+      "kannada": "ಇಂದು ಬೆಳಿಗ್ಗೆ ಇಡ್ಲಿ ಹಸಿಯಾಗಿದೆಯಾ?",
+      "transliteration": "Indu beḷigge iḍli hasiyaagideyaa?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-20T05:57:44.238013"
+    },
+    {
+      "english": "Can I get plain rice, please?",
+      "kannada": "ದಯವಿಟ್ಟು ಸರಳ ಅಕ್ಕಿ ಕೊಡ್ತೀರಾ?",
+      "transliteration": "Dayavittu sarala akki koḍtiraa?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-20T05:57:44.238015"
     }
   ],
-  "last_updated": "2026-11-20T01:43:40.313840"
+  "last_updated": "2026-11-20T05:57:44.238016"
 }
