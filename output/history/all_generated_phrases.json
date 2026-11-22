@@ -7034,7 +7034,42 @@
       "transliteration": "nīvu yōcisuvudakkiṁtā innū hattira",
       "category": "Perseverance",
       "generated_at": "2026-11-22T05:25:26.017541"
+    },
+    {
+      "english": "Inhale slowly, relax your shoulders.",
+      "kannada": "ನಿಧಾನವಾಗಿ ಉಸಿರೆಳೆ, ಭುಜಗಳನ್ನು ಸಡಿಲಿಸು.",
+      "transliteration": "nidhānavāgi usireḷe, bhuja-gaḷannu saḍilis u.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-22T19:10:39.852396"
+    },
+    {
+      "english": "Exhale, unclench your jaw gently.",
+      "kannada": "ಉಸಿರೆಚ್ಛು, ನಿಮ್ಮ ಗವಡನ್ನು ಮೃದುವಾಗಿ ಸಡಿಲಿಸು.",
+      "transliteration": "usirechchu, nim'ma gavaḍannu mṛduvāgi saḍilis u.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-22T19:10:39.852412"
+    },
+    {
+      "english": "Feel your chest rise and fall.",
+      "kannada": "ನಿಮ್ಮ ಎದೆಯು ಏರಿ ಇಳಿಯುವುದನ್ನು ಅನುಭವಿಸು.",
+      "transliteration": "nim'ma ede-yu ēri iḷiyuvudannu anubhavis u.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-22T19:10:39.852415"
+    },
+    {
+      "english": "Slow down, notice the room around you.",
+      "kannada": "ಸ್ವಲ್ಪ ನಿಧಾನಗೊಳಿಸಿ, ನಿಮ್ಮ ಸುತ್ತಲನ್ನು ಗಮನಿಸು.",
+      "transliteration": "svalpa nidhāna-goḷisi, nim'ma suṭṭalannu gamanisu.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-22T19:10:39.852417"
+    },
+    {
+      "english": "Soft gaze, let thoughts fade.",
+      "kannada": "ಸೌಮ್ಯವಾಗಿ ಕಣ್ಣಿಟ್ಟುಕೊಳ್ಳಿ, ಚಿಂತನೆಗಳು ಮಸುಕಾಗಲಿ.",
+      "transliteration": "saumyavāgi kaṇṇiṭṭukōḷḷi, chintanegaḷu masukāgali.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-22T19:10:39.852420"
     }
   ],
-  "last_updated": "2026-11-22T05:25:26.017543"
+  "last_updated": "2026-11-22T19:10:39.852422"
 }
