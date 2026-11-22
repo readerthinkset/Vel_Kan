@@ -7069,7 +7069,42 @@
       "transliteration": "saumyavāgi kaṇṇiṭṭukōḷḷi, chintanegaḷu masukāgali.",
       "category": "Mindfulness",
       "generated_at": "2026-11-22T19:10:39.852420"
+    },
+    {
+      "english": "Please say that again, slowly.",
+      "kannada": "ದಯವಿಟ್ಟು, ಅದನ್ನು ಮತ್ತೆ ಹೇಳಿ, ನಿಧಾನವಾಗಿ.",
+      "transliteration": "dayaviṭṭu, adannu matte hēḷi, nidhān-vāgi.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-22T20:41:05.821991"
+    },
+    {
+      "english": "I like this place a lot.",
+      "kannada": "ನನಗೆ ಈ ಜಾಗ ತುಂಬಾ ಇಷ್ಟವಾಗಿದೆ.",
+      "transliteration": "nanage ī jāga tumbaa iṣṭavāgide.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-22T20:41:05.822002"
+    },
+    {
+      "english": "Where can I sit here?",
+      "kannada": "ಇಲ್ಲಿ ನಾನು ಎಲ್ಲಿ ಕುಳಿತುಕೊಳ್ಳಲಿ?",
+      "transliteration": "illi nānu elli kuḷitukoḷḷali?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-22T20:41:05.822004"
+    },
+    {
+      "english": "Do you have this in blue?",
+      "kannada": "ಇದು ನೀಲಿ ಬಣ್ಣದಲ್ಲಿದೆಯಾ?",
+      "transliteration": "idu nīli baṇṇadalli-dēyā?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-22T20:41:05.822005"
+    },
+    {
+      "english": "I need water, please.",
+      "kannada": "ನನಗೆ ನೀರು ಬೇಕು, ದಯವಿಟ್ಟು.",
+      "transliteration": "nanage nīru bēku, dayaviṭṭu.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-22T20:41:05.822007"
     }
   ],
-  "last_updated": "2026-11-22T19:10:39.852422"
+  "last_updated": "2026-11-22T20:41:05.822009"
 }
