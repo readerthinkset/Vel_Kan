@@ -7209,7 +7209,42 @@
       "transliteration": "alli innū beḷigge āgideyā",
       "category": "Time",
       "generated_at": "2026-11-23T06:01:19.131660"
+    },
+    {
+      "english": "Wait with a kind heart, please.",
+      "kannada": "ದಯೆಯಿಂದ ಕಾಯಿರಿ, ದಯವಿಟ್ಟು.",
+      "transliteration": "dayindha kaayiri, dayavittu.",
+      "category": "Patience",
+      "generated_at": "2026-11-23T23:30:48.549128"
+    },
+    {
+      "english": "Stay patient, the answer needs time.",
+      "kannada": "ತಾಳ್ಮೆ ಇರಿ, ಉತ್ತರಕ್ಕೆ ಸಮಯ ಬೇಕು.",
+      "transliteration": "thaaLm e iri, uththarakke samaya beku.",
+      "category": "Patience",
+      "generated_at": "2026-11-23T23:30:48.549139"
+    },
+    {
+      "english": "Let it mature, don't force it.",
+      "kannada": "ಬೆಳೆಲು ಬಿಡಿ, ಬಲವಂತ ಮಾಡಬೇಡಿ.",
+      "transliteration": "beLelu bid i, balavantha maadabedi.",
+      "category": "Patience",
+      "generated_at": "2026-11-23T23:30:48.549141"
+    },
+    {
+      "english": "Be steady, even when delays happen.",
+      "kannada": "ತಡವಾದರೂ, ಸ್ಥಿರವಾಗಿರಿ.",
+      "transliteration": "thadavaadaroo, s thiravaagir i.",
+      "category": "Patience",
+      "generated_at": "2026-11-23T23:30:48.549143"
+    },
+    {
+      "english": "Give it space, then watch it.",
+      "kannada": "ಸ್ವಲ್ಪ ಜಾಗ ನೀಡಿ, ನಂತರ ನೋಡಿ.",
+      "transliteration": "sva lp a jaaga ni di, nanthara noodi.",
+      "category": "Patience",
+      "generated_at": "2026-11-23T23:30:48.549144"
     }
   ],
-  "last_updated": "2026-11-23T06:01:19.131662"
+  "last_updated": "2026-11-23T23:30:48.549146"
 }
