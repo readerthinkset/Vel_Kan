@@ -7314,7 +7314,42 @@
       "transliteration": "Nim'ma manassu nelegoLLali, maunavAgi",
       "category": "Balance",
       "generated_at": "2026-11-24T03:13:14.953955"
+    },
+    {
+      "english": "Hello! How are you feeling today?",
+      "kannada": "ನಮಸ್ಕಾರ! ಇಂದು ಹೇಗಿದ್ದೀರಾ?",
+      "transliteration": "namaskāra! indū hēgiddīrā?",
+      "category": "Greetings",
+      "generated_at": "2026-11-24T04:42:48.854682"
+    },
+    {
+      "english": "Hi there, welcome to my home.",
+      "kannada": "ನಮಸ್ಕಾರ, ನನ್ನ ಮನೆಗೆ ಸ್ವಾಗತ.",
+      "transliteration": "namaskāra, nanna manege svāgata.",
+      "category": "Greetings",
+      "generated_at": "2026-11-24T04:42:48.854696"
+    },
+    {
+      "english": "Good morning! Hope you’re doing well.",
+      "kannada": "ಶುಭೋದಯ! ನೀವು ಚೆನ್ನಾಗಿದ್ದೀರಾ ಎಂದು ಭಾವಿಸುತ್ತೇನೆ.",
+      "transliteration": "śubhōdaya! nīvu chennāgiddīrā endu bhāvisuttēne.",
+      "category": "Greetings",
+      "generated_at": "2026-11-24T04:42:48.854697"
+    },
+    {
+      "english": "Good afternoon! How’s everything going?",
+      "kannada": "ಶುಭ ಮಧ್ಯಾಹ್ನ! ಎಲ್ಲವೂ ಹೇಗಿದೆ?",
+      "transliteration": "śubha madhyāhna! ellavū hēgide?",
+      "category": "Greetings",
+      "generated_at": "2026-11-24T04:42:48.854698"
+    },
+    {
+      "english": "Good evening! Are you free right now?",
+      "kannada": "ಶುಭ ಸಂಜೆ! ಈಗ ನಿಮಗೆ ಸಮಯ ಇದೆಯಾ?",
+      "transliteration": "śubha sañje! īga nimage samaya ideyā?",
+      "category": "Greetings",
+      "generated_at": "2026-11-24T04:42:48.854699"
     }
   ],
-  "last_updated": "2026-11-24T03:13:14.953957"
+  "last_updated": "2026-11-24T04:42:48.854701"
 }
