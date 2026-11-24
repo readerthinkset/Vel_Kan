@@ -7349,7 +7349,42 @@
       "transliteration": "śubha sañje! īga nimage samaya ideyā?",
       "category": "Greetings",
       "generated_at": "2026-11-24T04:42:48.854699"
+    },
+    {
+      "english": "How much is this, please?",
+      "kannada": "ಇದು ಎಷ್ಟು, ದಯವಿಟ್ಟು?",
+      "transliteration": "idu eshtu, dayavittu?",
+      "category": "Shopping",
+      "generated_at": "2026-11-24T08:42:48.118953"
+    },
+    {
+      "english": "Do you have bags for shopping?",
+      "kannada": "ಶಾಪಿಂಗ್‌ಗೆ ಬ್ಯಾಗ್‌ಗಳು ಇದೆಯಾ?",
+      "transliteration": "shopping-ge baggalu ideya?",
+      "category": "Shopping",
+      "generated_at": "2026-11-24T08:42:48.118969"
+    },
+    {
+      "english": "I need this size, please.",
+      "kannada": "ನನಗೆ ಈ ಗಾತ್ರ ಬೇಕು, ದಯವಿಟ್ಟು.",
+      "transliteration": "nanage ee gatra beku, dayavittu.",
+      "category": "Shopping",
+      "generated_at": "2026-11-24T08:42:48.118972"
+    },
+    {
+      "english": "Is this price fixed, or negotiable?",
+      "kannada": "ಈ ಬೆಲೆ ಫಿಕ್ಸ್ ಆಗಿದೆಯಾ, ಅಥವಾ ಮಾತುಕತೆನಾ?",
+      "transliteration": "ee bele fix agideya, athava matukate-na?",
+      "category": "Shopping",
+      "generated_at": "2026-11-24T08:42:48.118974"
+    },
+    {
+      "english": "Please show me another color.",
+      "kannada": "ದಯವಿಟ್ಟು ಇನ್ನೊಂದು ಬಣ್ಣ ತೋರಿಸಿ.",
+      "transliteration": "dayavittu innondu banna torisi.",
+      "category": "Shopping",
+      "generated_at": "2026-11-24T08:42:48.118999"
     }
   ],
-  "last_updated": "2026-11-24T04:42:48.854701"
+  "last_updated": "2026-11-24T08:42:48.119003"
 }
