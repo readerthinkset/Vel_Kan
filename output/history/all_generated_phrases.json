@@ -7524,7 +7524,42 @@
       "transliteration": "nidhaanavagi usiru bidu, hrudaya haguravaguttade",
       "category": "Happiness",
       "generated_at": "2026-11-25T03:27:36.720881"
+    },
+    {
+      "english": "Where is the taxi stand, please?",
+      "kannada": "ಟ್ಯಾಕ್ಸಿ ನಿಲ್ದಾಣ ಎಲ್ಲಿ ಇದೆ?",
+      "transliteration": "Taksyi nildāṇa elli ide?",
+      "category": "Travel",
+      "generated_at": "2026-11-25T07:15:56.151040"
+    },
+    {
+      "english": "I’m looking for the departure gate.",
+      "kannada": "ನನಗೆ ನಿರ್ಗಮನ ದ್ವಾರ ಬೇಕು.",
+      "transliteration": "Nanage nirgamana dvāra bēku.",
+      "category": "Travel",
+      "generated_at": "2026-11-25T07:15:56.151051"
+    },
+    {
+      "english": "What time does the bus leave?",
+      "kannada": "ಬಸ್ಸು ಯಾವಾಗ ಹೊರಡುತ್ತದೆ?",
+      "transliteration": "Bassu yāvāga horaduttade?",
+      "category": "Travel",
+      "generated_at": "2026-11-25T07:15:56.151053"
+    },
+    {
+      "english": "Does this bus go to the city?",
+      "kannada": "ಈ ಬಸ್ಸು ನಗರಕ್ಕೆ ಹೋಗುತ್ತದಾ?",
+      "transliteration": "Ee bassu nagarake hōguttadā?",
+      "category": "Travel",
+      "generated_at": "2026-11-25T07:15:56.151055"
+    },
+    {
+      "english": "Is there a restroom nearby?",
+      "kannada": "ಇಲ್ಲಿ ಹತ್ತಿರ ಶೌಚಾಲಯ ಇದೆಯೇ?",
+      "transliteration": "Ili hattira shaucālaya ideyē?",
+      "category": "Travel",
+      "generated_at": "2026-11-25T07:15:56.151056"
     }
   ],
-  "last_updated": "2026-11-25T03:27:36.720883"
+  "last_updated": "2026-11-25T07:15:56.151058"
 }
