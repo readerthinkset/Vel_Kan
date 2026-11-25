@@ -7559,7 +7559,42 @@
       "transliteration": "Ili hattira shaucālaya ideyē?",
       "category": "Travel",
       "generated_at": "2026-11-25T07:15:56.151056"
+    },
+    {
+      "english": "I’ll take one cup, please.",
+      "kannada": "ನನಗೆ ಒಂದು ಕಪ್ ಬೇಕು, ದಯವಿಟ್ಟು.",
+      "transliteration": "Nanage ondu kap beku, dayavittu.",
+      "category": "Numbers",
+      "generated_at": "2026-11-25T21:13:33.955083"
+    },
+    {
+      "english": "Please add two more spoons.",
+      "kannada": "ದಯವಿಟ್ಟು ಇನ್ನೂ ಎರಡು ಚಮಚ ಸೇರಿಸಿ.",
+      "transliteration": "Dayavittu innoo eradu chamacha serisi.",
+      "category": "Numbers",
+      "generated_at": "2026-11-25T21:13:33.955095"
+    },
+    {
+      "english": "Give me three small plates.",
+      "kannada": "ದಯವಿಟ್ಟು ಮೂರು ಸಣ್ಣ ತಟ್ಟೆಗಳು ಕೊಡಿ.",
+      "transliteration": "Dayavittu mooru sannat tattegalu kodi.",
+      "category": "Numbers",
+      "generated_at": "2026-11-25T21:13:33.955096"
+    },
+    {
+      "english": "I want four tickets for today.",
+      "kannada": "ಇಂದು ನಾಲ್ಕು ಟಿಕೆಟ್ ಬೇಕು ನನಗೆ.",
+      "transliteration": "Indu naalku ticket beku nanage.",
+      "category": "Numbers",
+      "generated_at": "2026-11-25T21:13:33.955098"
+    },
+    {
+      "english": "Can I have five rupees?",
+      "kannada": "ನನಗೆ ಐದು ರೂಪಾಯಿ ಕೊಡುತ್ತೀರಾ?",
+      "transliteration": "Nanage aidu roopayi kodutheerā?",
+      "category": "Numbers",
+      "generated_at": "2026-11-25T21:13:33.955099"
     }
   ],
-  "last_updated": "2026-11-25T07:15:56.151058"
+  "last_updated": "2026-11-25T21:13:33.955101"
 }
