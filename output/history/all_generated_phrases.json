@@ -7699,7 +7699,42 @@
       "transliteration": "Idannu tegedukolluttēne, dhanyavadagalu.",
       "category": "Common Expressions",
       "generated_at": "2026-11-26T02:43:23.269528"
+    },
+    {
+      "english": "I’m glad you stepped in, today.",
+      "kannada": "ಇವತ್ತೇ ನೀನು ಮಧ್ಯೆ ಬಂದಿದ್ದಕ್ಕೆ ಸಂತೋಷ.",
+      "transliteration": "ivatte neenu madhye bandiddakke santosha",
+      "category": "Gratitude",
+      "generated_at": "2026-11-26T07:04:40.626645"
+    },
+    {
+      "english": "That was thoughtful, thank you.",
+      "kannada": "ಅದು ತುಂಬಾ ಯೋಚನಾತ್ಮಕ, ಧನ್ಯವಾದಗಳು.",
+      "transliteration": "adu tumba yochanatmaka, dhanyavadagalu",
+      "category": "Gratitude",
+      "generated_at": "2026-11-26T07:04:40.626661"
+    },
+    {
+      "english": "I needed this, thanks a lot.",
+      "kannada": "ನನಗೆ ಇದು ಬೇಕಿತ್ತು, ತುಂಬಾ ಧನ್ಯವಾದಗಳು.",
+      "transliteration": "nanage idu bekitttu, tumba dhanyavadagalu",
+      "category": "Gratitude",
+      "generated_at": "2026-11-26T07:04:40.626662"
+    },
+    {
+      "english": "Thanks for your patience, I noticed.",
+      "kannada": "ನಿನ್ನ ತಾಳ್ಮೆ, ನಾನು ಗಮನಿಸಿದೆ.",
+      "transliteration": "ninna talmme, nanu gamanise",
+      "category": "Gratitude",
+      "generated_at": "2026-11-26T07:04:40.626663"
+    },
+    {
+      "english": "You’re always kind, and I feel it.",
+      "kannada": "ನೀನು ಸದಾ ದಯಾಳು, ನನಗೆ ಗೊತ್ತಾಗುತ್ತದೆ.",
+      "transliteration": "neenu sada dayalu, nanage gottaguttade",
+      "category": "Gratitude",
+      "generated_at": "2026-11-26T07:04:40.626664"
     }
   ],
-  "last_updated": "2026-11-26T02:43:23.269530"
+  "last_updated": "2026-11-26T07:04:40.626666"
 }
