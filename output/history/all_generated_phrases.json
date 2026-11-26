@@ -7629,7 +7629,42 @@
       "transliteration": "bhayavādarū sah saumyavāgi mātanādi",
       "category": "Courage",
       "generated_at": "2026-11-25T23:02:37.521429"
+    },
+    {
+      "english": "I’m thrilled, and I feel it.",
+      "kannada": "ನನಗೆ ತುಂಬಾ ಹರ್ಷ, ಮತ್ತು ಅದನ್ನು ಭಾಸವಾಗುತ್ತಿದೆ.",
+      "transliteration": "nanage tumbaa harṣa, mattu adannu bhasavaaguttide",
+      "category": "Joy",
+      "generated_at": "2026-11-26T00:53:20.145383"
+    },
+    {
+      "english": "Good news, I’m smiling already.",
+      "kannada": "ಒಳ್ಳೆ ಸುದ್ದಿ, ನನಗೆ ಈಗಲೇ ನಗು ಬರುತ್ತಿದೆ.",
+      "transliteration": "oḷḷe suddi, nanage igaaley nagu baruttide",
+      "category": "Joy",
+      "generated_at": "2026-11-26T00:53:20.145394"
+    },
+    {
+      "english": "My worries are gone, today.",
+      "kannada": "ಇಂದು ನನ್ನ ಚಿಂತೆಗಳು ಹೋಗಿವೆ.",
+      "transliteration": "indu nanna chintegaḷu hogi ive",
+      "category": "Joy",
+      "generated_at": "2026-11-26T00:53:20.145396"
+    },
+    {
+      "english": "I feel light, like air.",
+      "kannada": "ನನಗೆ ಹಗುರವಾಗಿದೆ, ಗಾಳಿಯಂತೆ.",
+      "transliteration": "nanage haguravaagide, gaāḷiyante",
+      "category": "Joy",
+      "generated_at": "2026-11-26T00:53:20.145397"
+    },
+    {
+      "english": "This feels right, and peaceful.",
+      "kannada": "ಇದು ಸರಿಯಾಗಿದೆ, ಮತ್ತು ಶಾಂತವಾಗಿದೆ.",
+      "transliteration": "idu sariyagide, mattu shāntavaagide",
+      "category": "Joy",
+      "generated_at": "2026-11-26T00:53:20.145398"
     }
   ],
-  "last_updated": "2026-11-25T23:02:37.521430"
+  "last_updated": "2026-11-26T00:53:20.145400"
 }
