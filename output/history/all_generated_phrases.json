@@ -7664,7 +7664,42 @@
       "transliteration": "idu sariyagide, mattu shāntavaagide",
       "category": "Joy",
       "generated_at": "2026-11-26T00:53:20.145398"
+    },
+    {
+      "english": "Excuse me, what time is it?",
+      "kannada": "ಕ್ಷಮಿಸಿ, ಈಗ ಸಮಯ ಎಷ್ಟು?",
+      "transliteration": "Kshamisi, iga samaya eshtu?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-26T02:43:23.269516"
+    },
+    {
+      "english": "I’m looking for this shop, please.",
+      "kannada": "ದಯವಿಟ್ಟು, ನಾನು ಈ ಅಂಗಡಿ ಹುಡುಕುತ್ತಿದ್ದೇನೆ.",
+      "transliteration": "Dayavittu, naanu ee angadi hudukuttiddene.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-26T02:43:23.269525"
+    },
+    {
+      "english": "Is it far from here?",
+      "kannada": "ಇಲ್ಲಿಂದ ದೂರವೇನಾ?",
+      "transliteration": "Illinda dooravenaa?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-26T02:43:23.269527"
+    },
+    {
+      "english": "How much does this cost, ma’am?",
+      "kannada": "ಮೇಡಂ, ಇದಕ್ಕೆ ಎಷ್ಟು ಬೆಲೆ?",
+      "transliteration": "Medam, idakke eshtu bele?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-26T02:43:23.269527"
+    },
+    {
+      "english": "I’ll take it, thank you.",
+      "kannada": "ಇದನ್ನು ತೆಗೆದುಕೊಳ್ಳುತ್ತೇನೆ, ಧನ್ಯವಾದಗಳು.",
+      "transliteration": "Idannu tegedukolluttēne, dhanyavadagalu.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-26T02:43:23.269528"
     }
   ],
-  "last_updated": "2026-11-26T00:53:20.145400"
+  "last_updated": "2026-11-26T02:43:23.269530"
 }
