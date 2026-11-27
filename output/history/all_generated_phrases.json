@@ -7825,7 +7825,28 @@
       "transliteration": "Dayavittu nimma aNNanige ippaega kare maadi.",
       "category": "Family Terms",
       "generated_at": "2026-11-27T11:40:15.205912"
+    },
+    {
+      "english": "You’re improving, even if it’s slow.",
+      "kannada": "ನೀವು ಸುಧಾರಿಸುತ್ತಿದ್ದೀರಿ, ನಿಧಾನವಾಗಿದ್ದರೂ ಕೂಡ.",
+      "transliteration": "Neevu sudhaarisutthiddheeri, nidhaanavaagiddarū kūda.",
+      "category": "Motivation",
+      "generated_at": "2026-11-27T19:22:27.688968"
+    },
+    {
+      "english": "Focus on one sound, then move.",
+      "kannada": "ಒಂದೇ ಧ್ವನಿಗೆ ಗಮನಿಸಿ, ನಂತರ ಮುಂದುವರಿಯಿರಿ.",
+      "transliteration": "Ondē dhvanige gamanisi, naantara munduvariyiri.",
+      "category": "Motivation",
+      "generated_at": "2026-11-27T19:22:27.688986"
+    },
+    {
+      "english": "Ask questions, learning gets easier.",
+      "kannada": "ಪ್ರಶ್ನೆ ಕೇಳಿ, ಕಲಿಕೆ ಸುಲಭವಾಗುತ್ತದೆ.",
+      "transliteration": "Praśne kēḷi, kalike sulabhavaaguttade.",
+      "category": "Motivation",
+      "generated_at": "2026-11-27T19:22:27.688988"
     }
   ],
-  "last_updated": "2026-11-27T11:40:15.205914"
+  "last_updated": "2026-11-27T19:22:27.688989"
 }
