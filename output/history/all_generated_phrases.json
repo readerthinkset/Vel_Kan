@@ -7867,7 +7867,28 @@
       "transliteration": "Nityate pratibh- eyan-nu meerisut-tade, baruttirali.",
       "category": "Success",
       "generated_at": "2026-11-28T03:50:08.573662"
+    },
+    {
+      "english": "You matter, I’m here for you.",
+      "kannada": "ನೀವು ಮುಖ್ಯ, ನಾನು ನಿಮ್ಮ ಜೊತೆಯಲ್ಲಿದ್ದೇನೆ.",
+      "transliteration": "Neevu mukhya, nanu nimma joteyalliddēne.",
+      "category": "Kindness",
+      "generated_at": "2026-11-28T11:14:36.695793"
+    },
+    {
+      "english": "Let me share what I know.",
+      "kannada": "ನನಗೆ ಗೊತ್ತಿರುವುದನ್ನು ನಿಮಗಾಗಿ ಹಂಚಿಕೊಳ್ಳುತ್ತೇನೆ.",
+      "transliteration": "Nanage gottiruvudannu nimagagi han̄chikoḷḷuttēne.",
+      "category": "Kindness",
+      "generated_at": "2026-11-28T11:14:36.695805"
+    },
+    {
+      "english": "Small kindness makes a big difference.",
+      "kannada": "ಚಿಕ್ಕ ದಯೆ ದೊಡ್ಡ ಬದಲಾವಣೆ ತರಲಿದೆ.",
+      "transliteration": "Chikka daye doḍḍa badalāvaṇe taralide.",
+      "category": "Kindness",
+      "generated_at": "2026-11-28T11:14:36.695806"
     }
   ],
-  "last_updated": "2026-11-28T03:50:08.573664"
+  "last_updated": "2026-11-28T11:14:36.695807"
 }
